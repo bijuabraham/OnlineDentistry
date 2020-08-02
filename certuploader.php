@@ -47,7 +47,7 @@ function file_upload_form()
     </td></tr>
     </form>
     </table>
-    <p><A HREF="ParticipantsList.csv">Participants upload template</A></P>
+    <p><A HREF="data/participantslist.csv">Mailing List upload template</A></P>
 
 <?php
 }
