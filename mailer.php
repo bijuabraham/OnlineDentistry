@@ -17,7 +17,7 @@ function sendPHPMailer($studentid, $toaddress, $toname, $subject, $attach, $mess
         $mail->Host       = 'smtp.1and1.com';                    // Set the SMTP server to send through
         $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
         $mail->Username   = 'no-reply@keralaonlineedu.com';                     // SMTP username
-        $mail->Password   = '0F3Zmp@Erm4L';                               // SMTP password
+        $mail->Password   = '#qm0v05SL4MM';                               // SMTP password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
         $mail->Port       = 587;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
 

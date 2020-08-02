@@ -40,7 +40,7 @@ Thank you for attending the class.<BR>
 <label for="title">Course Title:</label><br>
 <input type="text" name="title" id="title" value="Orthodonics Course"><br><br>
 <label for="by">Instructor name:</label><br>
-<input type="text" name="by" id="by" value="Dr. Binu Abraham"><br><br>
+<input type="text" name="by" id="by" value="By Dr. Binu Abraham"><br><br>
 <label for="on">Course date:</label><br>
 <input type="text" name="on" id="on" value="August 8, 2020"><br><br>
 <input type="submit" name="Send" value="Review">
