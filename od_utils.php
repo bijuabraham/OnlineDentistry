@@ -134,70 +134,7 @@ function od_footer()
 function new_wp_header()
 {
 ?>
-<body class="page-template page-template-full-width page-template-full-width-php page page-id-113">
-
-<div class="header">
-
-        <div class="header-inner">
-
-                        <div class="logo">
-
-                                                <a href="http://sfmtc.org/">
-
-                                                                                                           <img src="http://sfmtc.org/wp-content/uploads/2019/01/webtoplogo.png" / >
-
-                                                                                                                                                               </a>
-
-                                                                                                                                                                                </div><!-- logo -->
-
-                                                                                                                                                                                                                                  <div class="toggle">
-
-                                                                                                                                                                                                                                                  <a class="toggleMenu" href="#">Menu</a>
-
-                                                                                                                                                                                                                                                                  </div><!-- toggle -->
-
-                                                                                                                                                                                                                                                                                  <div class="nav">
-
-                                                                                                                                                                                                                                                                                                      <div class="menu-top-menu-container"><ul id="menu-top-menu" class="menu"><li id="menu-item-69" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-69"><a href="http://sfmtc.org/?cat=5">About Us</a>
-                                                                                                                                                                                                                                                                                                      <ul class="sub-menu">
-                                                                                                                                                                                                                                                                                                        <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://sfmtc.org/?page_id=70">What We Believe</a></li>
-                                                                                                                                                                                                                                                                                                            <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="http://sfmtc.org/?page_id=72">Mar Thoma Church History</a></li>
-                                                                                                                                                                                                                                                                                                                <li id="menu-item-76" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76"><a href="https://www.marthomanae.org/website/">Our Diocese</a></li>
-                                                                                                                                                                                                                                                                                                                    <li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="http://sfmtc.org/?page_id=77">Our Vicar</a></li>
-                                                                                                                                                                                                                                                                                                                        <li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://sfmtc.org/?page_id=81">Membership</a></li>
-                                                                                                                                                                                                                                                                                                                        </ul>
-                                                                                                                                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                                                                                                                                        <li id="menu-item-68" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-68"><a href="http://sfmtc.org/?cat=4">Ministries</a>
-                                                                                                                                                                                                                                                                                                                        <ul class="sub-menu">
-                                                                                                                                                                                                                                                                                                                            <li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://sfmtc.org/?page_id=34">Choir</a></li>
-                                                                                                                                                                                                                                                                                                                                <li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://sfmtc.org/?page_id=64">Edavaka Mission</a></li>
-                                                                                                                                                                                                                                                                                                                                </ul>
-                                                                                                                                                                                                                                                                                                                                </li>
-                                                                                                                                                                                                                                                                                                                                <li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://sfmtc.org/?page_id=49">Photo Gallery</a></li>
-                                                                                                                                                                                                                                                                                                                                <li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89"><a href="http://sfmtc.org/?calendar=86">Calendar</a></li>
-                                                                                                                                                                                                                                                                                                                                <li id="menu-item-111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111"><a href="http://sfmtc.org/portal">Portal</a></li>
-                                                                                                                                                                                                                                                                                                                                </ul></div>                </div><!-- nav --><div class="clear"></div>
-
-                                                                                                                                                                                                                                                                                                                                                    </div><!-- header-inner -->
-
-                                                                                                                                                                                                                                                                                                                                                    </div><!-- header -->
-
-                                                                                                                                                                                                                                                                                                                                                            
-
-                                                                                                                                                                                                                                                                                                                                                                        <div class="innerbanner">                 
-
-                                                                                                                                                                                                                                                                                                                                                                                                <img src="http://sfmtc.org/wp-content/uploads/2019/01/cropped-A-2.jpg" width="1400" height="272" alt="" />
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                         
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                             </div>  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                             <div class="content-area">
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                 <div class="middle-align">
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                         <div class="site-main" id="sitefull">
-
+<body>
 <?php
 }
 
@@ -210,7 +147,6 @@ function od_simple_header()
     <head>
     <link href="styles.css" rel="stylesheet" type="text/css" />
     <link href="my_style.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     </head>
     <body>
     <div id="container">
@@ -226,8 +162,9 @@ function od_simple_footer()
             <?php
                 if (isset($_SESSION['user'])) {
                     if (user_admin($_SESSION['user'])) {
-                        echo "<a href='bdwa.php'>Birthdays/Wedding Ann</a>";
-                        echo " | <a href='admin.php'>Admin Page</a><br><br>";
+                        echo "<A href=\"certmailer.php\">Certificate Mailer</A><BR />";
+                        echo "<A href=\"certuploader.php\">Upload Certificate Names</A><BR />";
+                        echo "<BR><A href=\"logout.php\">Logout</A><BR><BR>";
                     }
                     echo "Logged as " . $_SESSION['user'] ;
                 }
@@ -504,18 +441,18 @@ function od_dnld_table($result_rows, $hdr_array)
 function od_user_check($envelope, $linked, $user)
 {
     if (!$envelope) {
-        print "ENV $envelope LINK: $linked You account is not yet approved by the Church Officials.\nPlease contact <A href=\"mailto:webadmin@marthomasf.org\">webadmin@marthomasf.org</A> if you have registered more than 3 days back.";
+        print "ID $envelope <BR> LINK: $linked <BR> You account is not yet approved by the Online Dentistry.\nPlease contact <A href=\"mailto:admin@keralaonlineedu.com\">admin@keralaonlineedu.com</A> if you have registered more than 3 days back.";
         return false;
     }
     if (!$linked) {
-        print "LINK $envelope  LINK: $linked You account is not yet approved by the Church Officials.\nPlease contact <A href=\"mailto:webadmin@marthomasf.org\">webadmin@marthomasf.org</A> if you have registered more than 3 days back.";
+        print "ID $envelope <BR> LINK: $linked <BR> You account is not yet approved by the Online Dentistry.\nPlease contact <A href=\"mailto:admin@keralaonlineedu.com\">admin@keralaonlineedu.com</A> if you have registered more than 3 days back.";
         return false;
     }
-    if ($envelope == 999 && $user=="guest@marthomasf.org") {
+    if ($envelope == 999 && $user=="guest@keralaonlineedu.com") {
         print "Guests do not have access to this page !!";
         return false;
     }
-    if ($envelope && $linked && $user != "guest@marthomasf.org") {
+    if ($envelope && $linked && $user != "guest@keralaonlineedu.com") {
         return true;
     } 
     return false;
@@ -524,11 +461,11 @@ function od_user_check($envelope, $linked, $user)
 function od_user_or_guest_check($envelope, $linked)
 {
     if (!$envelope) {
-        print "ENV $envelope LINK: $linked You account is not yet approved by the Church Officials.\nPlease contact <A href=\"mailto:webadmin@marthomasf.org\">webadmin@marthomasf.org</A> if you have registered more than 3 days back.";
+        print "ENV $envelope LINK: $linked You account is not yet approved by the Online Dentistry.\nPlease contact <A href=\"mailto:admin@keralaonlineedu.com\">admin@keralaonlineedu.com</A> if you have registered more than 3 days back.";
         return false;
     }
     if (!$linked) {
-        print "LINK $envelope  LINK: $linked You account is not yet approved by the Church Officials.\nPlease contact <A href=\"mailto:webadmin@marthomasf.org\">webadmin@marthomasf.org</A> if you have registered more than 3 days back.";
+        print "LINK $envelope  LINK: $linked You account is not yet approved by the Online Dentistry.\nPlease contact <A href=\"mailto:admin@keralaonlineedu.com\">admin@keralaonlineedu.com</A> if you have registered more than 3 days back.";
         return false;
     }
     if ($envelope && $linked) {

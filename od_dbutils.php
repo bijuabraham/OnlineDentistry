@@ -11,10 +11,10 @@ function db_connect($dbid)
         $db_index = 'dbh';
         break;
     case "CIDB":
-        $dbname = ChurchInfoDBName;
-        $dbhost = ChurchInfoDBhost;
-        $dbuser = ChurchInfoDBuser;
-        $dbpass = ChurchInfoDBpass;
+        $dbname = ExternalDBName;
+        $dbhost = ExternalDBhost;
+        $dbuser = ExternalDBuser;
+        $dbpass = ExternalDBpass;
         $db_index = 'ci_dbh';
         break;
     default:
