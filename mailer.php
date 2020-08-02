@@ -6,14 +6,12 @@ use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 // Load Composer's autoloader
-require 'vendor/autoload.php';
-
-// Instantiation and passing `true` enables exceptions
+require_once 'vendor/autoload.php';
 
 function sendPHPMailer($studentid, $toaddress, $toname, $subject, $attach, $message, $external) {
-    $mail = new PHPMailer(true);
+
     try {
-        //Server settings
+        $mail = new PHPMailer(true);
         $mail->SMTPDebug = SMTP::DEBUG_OFF;                      // Enable verbose debug output
         $mail->isSMTP();                                            // Send using SMTP
         $mail->Host       = 'smtp.1and1.com';                    // Set the SMTP server to send through
