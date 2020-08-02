@@ -1,7 +1,7 @@
 <?php
     ini_set("display_errors","1");
     ERROR_REPORTING(E_ALL);
-    require 'fpdf.php';
+    require_once 'fpdf.php';
     require_once 'od_utils.php';
     require_once 'phpmailer.php';
     session_start();

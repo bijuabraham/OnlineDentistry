@@ -3,7 +3,7 @@ ini_set("display_errors","1");
 ERROR_REPORTING(E_ALL);
 
 session_start();
-require 'od_utils.php';
+require_once 'od_utils.php';
 
 
 if (isset($_POST['Submit']) && ($_POST['Submit']=='Login')) {

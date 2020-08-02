@@ -1,8 +1,8 @@
 <?php
     ini_set("display_errors","1");
     ERROR_REPORTING(E_ALL);
-    require 'mailer.php';
-    require 'certgen.php';
+    require_once 'mailer.php';
+    require_once 'certgen.php';
     require_once 'od_utils.php';
     od_authenticate();
     od_header();
@@ -22,6 +22,9 @@
 
 if ($is_send == '' || $is_send == 'Cancel') {
 ?>
+<table width="65%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="e5ecf9" class="forumposts">
 <form method="post" action="certmailer.php">
 <label for="Message">Email Message:</label><BR>
 <textarea id="message" name="message" rows="10" cols="50">
@@ -42,6 +45,9 @@ Thank you for attending the class.<BR>
 <input type="text" name="on" id="on" value="August 8, 2020"><br><br>
 <input type="submit" name="Send" value="Review">
 </form>
+</td>
+</tr>
+</table>
 <?php
 }
 if (($is_send == 'Send') && $message && user_admin($user)) {
@@ -88,6 +94,9 @@ if (($is_send == 'Review') && $message)
 {
   db_connect("CCDB");
 ?>
+<table width="65%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="e5ecf9" class="forumposts">
 <form name="form2" method="post" action="certmailer.php" style="padding:5px;">
 <p><br>
 <B>Review the Message: </B><BR />
@@ -121,8 +130,9 @@ if (($is_send == 'Review') && $message)
           <input type="submit" name="Send" value="Cancel">&nbsp;&nbsp;
           <input type="submit" name="Send" value="Send">
         </p>
-      </form></td>
-  </tr>
+      </form>
+      </td>
+</tr>
 </table>
     <?php
 }

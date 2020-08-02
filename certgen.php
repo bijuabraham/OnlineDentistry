@@ -1,7 +1,7 @@
 <?php
 ini_set("display_errors","1");
 ERROR_REPORTING(E_ALL);
-require 'fpdf.php';
+require_once 'fpdf.php';
 session_start();
 
 function generateCertificate ($id, $name, $subject, $by, $on) {

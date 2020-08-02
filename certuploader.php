@@ -30,12 +30,11 @@ od_footer();
 function file_upload_form()
 {
 ?>
-
-    <table>
+<table width="65%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="e5ecf9" class="forumposts">
     <form enctype="multipart/form-data" method="POST">
     <input type ="hidden" name="MAX_FILE_SIZE" value = "1000000"/>
-    <tr>
-    <td>
         Choose a file to upload:
     </td>
     <td>
@@ -46,7 +45,7 @@ function file_upload_form()
         <input type="submit" name="file_submit" value="upload"/>
     </td></tr>
     </form>
-    </table>
+</table>
     <p><A HREF="data/participantslist.csv">Mailing List upload template</A></P>
 
 <?php
