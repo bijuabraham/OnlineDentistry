@@ -11,6 +11,7 @@
     $title = $_POST['title'] ?? "";
     $by = $_POST['by'] ?? "";
     $on = $_POST['on'] ?? "";
+    $external = $_POST['external'] ?? FALSE;
     $user = $_SESSION['user'];
     $server = $_SERVER['HTTP_HOST'];
     $host = preg_replace('/www./','',$server);
@@ -18,6 +19,7 @@
 ?>
 <h2>Certificate Mailer </h2>
 <?php if (isset($_GET['msg'])) { echo "<div class=\"msg\"> $_GET[msg] </div>"; }
+
 if ($is_send == '' || $is_send == 'Cancel') {
 ?>
 <form method="post" action="certmailer.php">
@@ -63,9 +65,9 @@ if (($is_send == 'Send') && $message && user_admin($user)) {
             
             #function sendPHPMailer($toaddress, $toname, $subject, $attach, $message) {
             $sentMailResult = FALSE;
-            echo $studentid . "," . $certname . "," . $title . "," . $by . "," . $on;
+            #echo $studentid . "," . $certname . "," . $title . "," . $by . "," . $on . "," . $external;
             if(generateCertificate ($studentid, $certname, $title, $by, $on)) {
-              $sentMailResult = sendPHPMailer($studentid, $recipient, $certname, $subject, 1, $message);
+              $sentMailResult = sendPHPMailer($studentid, $recipient, $certname, $subject, 1, $message, $external);
             }
             if($sentMailResult)  
               { 
@@ -85,21 +87,20 @@ if (($is_send == 'Send') && $message && user_admin($user)) {
 if (($is_send == 'Review') && $message)
 {
   db_connect("CCDB");
-    ?>
-<table width="65%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td bgcolor="e5ecf9" class="forumposts"><form name="form2" method="post" action="certmailer.php" style="padding:5px;">
-        <p><br>
-          <B>Review the Message:</B><BR />
-    <?php
-    print "<BR>$message<BR>";
-    print "<BR><B>Title:</B> $title<";
-    print "<BR><B>By:</B> $by";
-    print "<BR><B>On:</B> $on<BR>";
-    print "<input type=\"hidden\" name=\"message\" value=\"$message\" >";
-    print "<input type=\"hidden\" name=\"title\" value=\"$title\" >";
-    print "<input type=\"hidden\" name=\"by\" value=\"$by\" >";
-    print "<input type=\"hidden\" name=\"on\" value=\"$on\" >";
+?>
+<form name="form2" method="post" action="certmailer.php" style="padding:5px;">
+<p><br>
+<B>Review the Message: </B><BR />
+<BR><?php echo $message; ?><BR>
+<BR><B>Title: </B><?php echo $title; ?><BR>
+<B>By: </B><?php echo $by; ?><BR>
+<B>On: </B><?php echo $on; ?><BR>
+<input type="hidden" name="message" value="<?php echo $message; ?>">
+<input type="hidden" name="title" value="<?php echo $title; ?>">
+<input type="hidden" name="by" value="<?php echo $by; ?>">
+<input type="hidden" name="on" value="<?php echo $on; ?>"><BR>
+<input type="checkbox" id="external" name="external" checked><label for="external"> SEND EXTERNAL EMAILS</label><BR>
+<?php
     $queryasofdate ="select date from AS_OF_DATE";
     $result = db_fetch_all("CCDB", $queryasofdate);
     $lastuploaddate = db_result($result,0,"date");
@@ -114,7 +115,7 @@ if (($is_send == 'Review') && $message)
     if (!$participantcount) {
       echo "No Participant List found or Query failed.<BR>\n";
     } else {
-      echo "Total Participants: $participantcount <BR>\n";
+      echo "Total Participants: $participantcount <BR><BR>\n";
   }
     ?>
           <input type="submit" name="Send" value="Cancel">&nbsp;&nbsp;

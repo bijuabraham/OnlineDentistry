@@ -10,7 +10,7 @@ require 'vendor/autoload.php';
 
 // Instantiation and passing `true` enables exceptions
 
-function sendPHPMailer($studentid, $toaddress, $toname, $subject, $attach, $message) {
+function sendPHPMailer($studentid, $toaddress, $toname, $subject, $attach, $message, $external) {
     $mail = new PHPMailer(true);
     try {
         //Server settings
@@ -25,7 +25,12 @@ function sendPHPMailer($studentid, $toaddress, $toname, $subject, $attach, $mess
 
         //Recipients
         $mail->setFrom('no-reply@keralaonlineedu.com', $subject);
-        $mail->addAddress($toaddress, $toname);     // Add a recipient
+        if ($external) {
+            $mail->addAddress($toaddress, $toname);     // Add a recipient
+            $mail->addBCC('certificates@keralaonlineedu.com');               // Name is optional
+        } else {
+            $mail->addAddress('certificates@keralaonlineedu.com', 'Certificate');     // Add a recipient
+        }
         #$mail->addCC('admin@keralaonlineedu.com');               // Name is optional
         $mail->addReplyTo('no-reply@keralaonlineedu.com', 'Do Not Reply');
         #$mail->addCC('cc@example.com');
