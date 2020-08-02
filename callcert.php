@@ -1,8 +1,8 @@
 <?php
 ini_set("display_errors","1");
 ERROR_REPORTING(E_ALL);
-require 'mailer.php';
-require 'certgen.php';
+require_once 'mailer.php';
+require_once 'certgen.php';
 require_once 'od_utils.php';
 od_authenticate();
 od_header();
