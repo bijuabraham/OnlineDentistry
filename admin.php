@@ -15,18 +15,20 @@
     $user = $_SESSION['user'];
     $is_change = $_POST['Change'] ?? "";
 ?>
-<h2>Account Administration Main</h2>
+<h2>Account Administration - Main Menu</h2>
 <?php if (isset($_GET['msg'])) { echo "<div class=\"msg\"> $_GET[msg] </div>"; } ?>
 
 <table width="65%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td bgcolor="e5ecf9" class="forumposts"><form name="form1" method="post" action="admin.php" style="padding:5px;">
+    <td bgcolor="e5ecf9" class="forumposts">
+    <form name="form1" method="post" action="admin.php" style="padding:5px;">
         <p><br>
-          Envelope #:
+          Administrator #:
           <input name="envelope" type="text" id="envelope">&nbsp;&nbsp;
           <input type="submit" name="Submit" value="Submit">
         </p>
-      </form></td>
+      </form>
+    </td>
   </tr>
 </table>
 <?php
@@ -103,7 +105,7 @@ if (is_numeric($envelope) && user_admin($user)) {
         print"<table border=1><tr><td><B>Name</B></td><td><B>Value</B></td><td><B>New Value</B></td></tr>";
         print "<tr><td>Name</td><td>$name</td><td><input name=\"newname\" type=\"text\" id=\"newname\"></td></tr>";
         print "<tr><td>Email</td><td>$email</td><td align=center>-</td></tr>";
-        print "<tr><td>Envelope</td><td>$envelope</td><td><input name=\"newenvelope\" type=\"text\" id=\"newenvelope\"></td></tr>";
+        print "<tr><td>Admin #</td><td>$envelope</td><td><input name=\"newenvelope\" type=\"text\" id=\"newenvelope\"></td></tr>";
         print "<tr><td>Activated</td><td>$activated</td><td align=center>-</td></tr>";
         print "<tr><td>Linked</td><td>$linked</td><td><input name=\"newlink\" type=\"text\" id=\"newlink\"></td></tr>";
         print "</table>";
@@ -111,7 +113,7 @@ if (is_numeric($envelope) && user_admin($user)) {
         print "<input type=\"hidden\" name=\"envelope\" value=\"$envelope\"><input type=\"hidden\" name=\"email\" value=\"$email\"></form>";
         $i++;
       }
-      print "BE VERY CAREFUL WHEN CHANGING ENVELOPE NUMBERS. THERE IS NO VALIDATION !!!!!";
+      print "BE VERY CAREFUL WHEN CHANGING ADMINISTRATOR NUMBERS. THERE IS NO VALIDATION !!!!!";
       db_close("CCDB");
 }
     od_footer();
