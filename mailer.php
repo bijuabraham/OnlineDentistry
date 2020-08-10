@@ -13,14 +13,15 @@ function sendPHPMailer($studentid, $toaddress, $toname, $subject, $attach, $mess
     try {
         $mail = new PHPMailer(true);
         $mail->SMTPDebug = SMTP::DEBUG_OFF;                      // Enable verbose debug output
+        $mail->Debugoutput = 'error_log';
         $mail->isSMTP();                                            // Send using SMTP
         $mail->Host       = 'smtp.1and1.com';                    // Set the SMTP server to send through
         $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-        $mail->Username   = 'no-reply@keralaonlineedu.com';                     // SMTP username
-        $mail->Password   = '#qm0v05SL4MM';                               // SMTP password
+        $mail->Username   = 'onlinedentistry@keraladental.com';                     // SMTP username
+        $mail->Password   = 'Binu1234';                               // SMTP password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
         $mail->Port       = 587;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
-
+        
         //Recipients
         $mail->setFrom('no-reply@keralaonlineedu.com', $subject);
         if ($external) {
@@ -33,7 +34,6 @@ function sendPHPMailer($studentid, $toaddress, $toname, $subject, $attach, $mess
         $mail->addReplyTo('no-reply@keralaonlineedu.com', 'Do Not Reply');
         #$mail->addCC('cc@example.com');
         #$mail->addBCC('bcc@example.com');
-
         // Attachments
         if ($attach) {
             $mail->addAttachment("certs/" . $studentid . "_certificate.pdf");         // Add attachments
@@ -47,9 +47,10 @@ function sendPHPMailer($studentid, $toaddress, $toname, $subject, $attach, $mess
         $mail->AltBody = $message;
 
         $mail->send();
+        $mail->smtpClose();
         return TRUE;
     } catch (Exception $e) {
-            echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+            error_log ("Message could not be sent. Mailer Error: {$mail->ErrorInfo}");
             return FALSE;
     }
 }
