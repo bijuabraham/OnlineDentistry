@@ -85,7 +85,7 @@ if (($is_send == 'Send') && $message && user_admin($user)) {
         $sentMailResult = FALSE;
         #echo $i . " : " . $studentid . "," . $certname . "," . $title . "," . $by . "," . $on . "," . $external . "<BR>";
         if(generateCertificate ($studentid, $certname, $title, $by, $on)) {
-          #$sentMailResult = sendPHPMailer($studentid, $recipient, $certname, $subject, 1, $message, $external);
+          $sentMailResult = sendPHPMailer($studentid, $recipient, $certname, $subject, 1, $message, $external);
         }
         if($sentMailResult)  
         { 
