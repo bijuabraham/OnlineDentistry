@@ -1,5 +1,5 @@
 <?php
-    ini_set("display_errors","1");
+    ini_set("display_errors","0");
     ERROR_REPORTING(E_ALL);
     require_once 'mailer.php';
     require_once 'certgen.php';
@@ -11,6 +11,8 @@
     $title = $_POST['title'] ?? "";
     $by = $_POST['by'] ?? "";
     $on = $_POST['on'] ?? "";
+    $startcert = $_POST["startcert"] ?? "0";
+    $endcert = $_POST["endcert"] ?? "0";
     $external = $_POST['external'] ?? FALSE;
     $user = $_SESSION['user'];
     $server = $_SERVER['HTTP_HOST'];
@@ -43,6 +45,10 @@ Thank you for attending the class.<BR>
 <input type="text" name="by" id="by" value="By Dr. Binu Abraham"><br><br>
 <label for="on">Course date:</label><br>
 <input type="text" name="on" id="on" value="August 8, 2020"><br><br>
+<label for="startcert">Starting Certificate Line:</label><br>
+<input type="number" name="startcert" id="startcert" value="0"><br><br>
+<label for="endcert">Ending Certificate Line:</label><br>
+<input type="number" name="endcert" id="endcert" value="0"><br><br>
 <input type="submit" name="Send" value="Review">
 </form>
 </td>
@@ -61,9 +67,14 @@ if (($is_send == 'Send') && $message && user_admin($user)) {
         //print $sqlquery2;
         $resultemails = db_fetch_all("CCDB", $emailquery);
         $num=db_num_rows($resultemails);
+        if ($endcert > $num) {$endcert = $num;}
         $subject = "Online Dentistry - Certificate";
-        $i = 0;
-        while ($i < $num) {
+        if ($external) {
+          echo "Generating and <font color=\"red\">EMAILING</font> Certificates from $startcert to $endcert<BR><BR>";
+        } else {
+          echo "Generating and Testing Certificates from $startcert to $endcert<BR><BR>";
+        }
+        for ($i = $startcert; $i <= $endcert; $i++) {
             //attachment 
             $recipient=db_result($resultemails,$i,"sendemail");
             $certname=db_result($resultemails,$i,"certname");
@@ -71,7 +82,7 @@ if (($is_send == 'Send') && $message && user_admin($user)) {
             
             #function sendPHPMailer($toaddress, $toname, $subject, $attach, $message) {
             $sentMailResult = FALSE;
-            #echo $studentid . "," . $certname . "," . $title . "," . $by . "," . $on . "," . $external;
+            #echo $i . " : " . $studentid . "," . $certname . "," . $title . "," . $by . "," . $on . "," . $external;
             if(generateCertificate ($studentid, $certname, $title, $by, $on)) {
               $sentMailResult = sendPHPMailer($studentid, $recipient, $certname, $subject, 1, $message, $external);
             }
@@ -81,9 +92,8 @@ if (($is_send == 'Send') && $message && user_admin($user)) {
               } 
               else
               { 
-                die($studentid . ":" . $certname . " - Failed<BR>"); 
+                echo($studentid . ":" . $certname . " - <font color=\"red\">Failed</font><BR>"); 
               } 
-            $i++;
           }
       }
       db_close("CCDB");
@@ -104,10 +114,13 @@ if (($is_send == 'Review') && $message)
 <BR><B>Title: </B><?php echo $title; ?><BR>
 <B>By: </B><?php echo $by; ?><BR>
 <B>On: </B><?php echo $on; ?><BR>
+<B>Starting Certificate row: </B><?php echo $startcert; ?> to <?php echo $endcert; ?></BR>
 <input type="hidden" name="message" value="<?php echo $message; ?>">
 <input type="hidden" name="title" value="<?php echo $title; ?>">
 <input type="hidden" name="by" value="<?php echo $by; ?>">
 <input type="hidden" name="on" value="<?php echo $on; ?>"><BR>
+<input type="hidden" name="startcert" value="<?php echo $startcert; ?>"><BR>
+<input type="hidden" name="endcert" value="<?php echo $endcert; ?>"><BR>
 <input type="checkbox" id="external" name="external" checked><label for="external"> SEND EXTERNAL EMAILS</label><BR>
 <?php
     $queryasofdate ="select date from AS_OF_DATE";
