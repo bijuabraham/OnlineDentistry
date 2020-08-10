@@ -59,7 +59,7 @@ function process_file()
     echo "Stored in: " . $_FILES["file"]["tmp_name"] . "<br/>";
     echo "Error if any: " . $_FILES["file"]["error"] . "<br/>";
     $addauto = 0;
-    $fieldseparator = ",";
+    $fieldseparator = "|";
     $lineseparator = "/\r|\n/";
     $csvfile = $_FILES["file"]["tmp_name"];
     $file = fopen($csvfile,"r");
