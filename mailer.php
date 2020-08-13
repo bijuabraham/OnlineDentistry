@@ -24,11 +24,12 @@ function sendPHPMailer($studentid, $toaddress, $toname, $subject, $attach, $mess
         
         //Recipients
         $mail->setFrom('no-reply@keralaonlineedu.com', $subject);
-        if ($external) {
+        if ($external == "true") {
             $mail->addAddress($toaddress, $toname);     // Add a recipient
             $mail->addBCC('certificates@keralaonlineedu.com');               // Name is optional
         } else {
-            $mail->addAddress('certificates@keralaonlineedu.com', 'Certificate');     // Add a recipient
+            #$mail->addAddress('certificates@keralaonlineedu.com', 'Certificate');     // Add a recipient
+            $mail->addAddress('joethesocialdentist@gmail.com'); 
         }
         #$mail->addCC('admin@keralaonlineedu.com');               // Name is optional
         $mail->addReplyTo('no-reply@keralaonlineedu.com', 'Do Not Reply');
