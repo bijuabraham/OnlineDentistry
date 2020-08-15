@@ -13,26 +13,28 @@ $( document ).ready(function() {
         var title = $('#title').val();
         var on = $('#on').val();
         var by = $('#by').val();
+        var template = $('#template').val();
         var message = $('#message').val();
         var external = $('#external').is(':checked');
         console.log(external);
-        if (message != ""){}
-        for (var counter = startcert; counter <= endcert; counter++) { 
+        if (message != ""){
+          for (var counter = startcert; counter <= endcert; counter++) { 
             $.ajax({
-            url: 'certmailer2.php',
-            // async: false,
-            type: 'POST',
-            data: { "counter_id" : counter, "message" : message, "title" : title, "on" : on, "by" : by, "external" : external,  },
-            success: function (message)
-            {
-                successcount++;
-                $("#successmessage").append(message);
-            },
-            error: function (errormessage)
-            {
-                $("#errormessage").text(errormessage);
-            }
+              url: 'certmailer.php',
+              // async: false,
+              type: 'POST',
+              data: { "counter_id" : counter, "message" : message, "title" : title, "on" : on, "by" : by, "template" : template, "external" : external,  },
+              success: function (message)
+              {
+                  successcount++;
+                  $("#successmessage").append(message);
+              },
+              error: function (errormessage)
+              {
+                  $("#errormessage").text(errormessage);
+              }
             });
+          }
         }
     });
 });

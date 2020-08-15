@@ -162,8 +162,10 @@ function od_simple_footer()
             <?php
                 if (isset($_SESSION['user'])) {
                     if (user_admin($_SESSION['user'])) {
+                        echo "<p><A href=\"admin.php\">Administrator's Page</A></p>";
                         echo "<A href=\"certform.php\">Certificate Mailer</A><BR />";
-                        echo "<A href=\"certuploader.php\">Upload Certificate Names</A><BR />";
+                        echo "<A href=\"certuploader.php\">Upload Participant Names</A><BR />";
+                        echo "<A href=\"templateuploader.php\">Upload Certificate Template</A><BR />";
                         echo "<BR><A href=\"logout.php\">Logout</A><BR><BR>";
                     }
                     echo "Logged as " . $_SESSION['user'] ;

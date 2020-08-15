@@ -1,11 +1,11 @@
 <?php
 ini_set("display_errors","0");
 ERROR_REPORTING(E_ALL);
-require_once 'fpdf.php';
+require_once ('fpdf_protection.php');
 session_start();
 putenv('GDFONTPATH=' . realpath('.'));
 define('FPDF_FONTPATH',realpath('.'));
-function generateCertificate ($id, $name, $subject, $by, $on) {
+function generateCertificate ($id, $name, $subject, $by, $on, $template) {
 	$tmpPDFFile = "certs/" . $id . "_certificate.pdf";
 	// Set the environment variable for GD
 	// Name the font to be used (note the lack of the .ttf extension)
@@ -17,6 +17,14 @@ function generateCertificate ($id, $name, $subject, $by, $on) {
 	$pad_length_small = 52;
 	$pad_type = STR_PAD_BOTH;
 	$pad_string = " ";
+	#echo "Template USED: $template";
+	if ($template == "standard") {
+		$certbase = "templates/standard.png";
+	} elseif ($template == "guest") {
+		$certbase = "templates/guest.png";
+	} else {
+		$certbase = "templates/standard.png";		
+	}
 	
 	#Elements to embed
 	#$name = "BIJU ABRAHAM";
@@ -36,11 +44,12 @@ function generateCertificate ($id, $name, $subject, $by, $on) {
 	$on = str_pad ( $on , $pad_length_small , $pad_string , $pad_type);
 	
     # PDF handling
-    $pdf = new FPDF();
+	$pdf = new FPDF_Protection();
+	$pdf->SetProtection(array('print'));
 	$pdf->AddPage('P','A4');
 	$pdf->SetAuthor('Online Dentistry');
     $pdf->SetTitle('Online Dentistry Certificate');
-    $pdf->Image("certbgA4.png",5,0,200);
+    $pdf->Image($certbase,5,0,200);
     $pdf->AddFont($font);
     $pdf->SetFont($font, "", $bigsize);
     $pdf->SetTextColor(0,0,255); #blue

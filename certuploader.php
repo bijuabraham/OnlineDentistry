@@ -19,11 +19,6 @@
     } else {
         file_upload_form();
     }
-?>
-<p>
-<A href="admin.php">Administrator's Page</A>
-</p>
-<?php
 }
 od_footer();
 //END OF MAIN
