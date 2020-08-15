@@ -1,0 +1,3603 @@
+System Log Lists
+Type	Date/Time	Event Description
+err	Aug 13 13:45:26	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 13 13:44:58	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 13 13:43:45	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 13:38:39	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 13 13:38:35	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+info	Aug 13 13:38:03	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 13 13:35:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 13:31:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 13:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 13:28:36	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 13:28:06	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 13:27:22	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 13:25:12	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 13:22:25	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 13:19:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 13:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 13:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 13:16:35	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 13:12:34	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 13:06:54	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 13:04:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 13:01:48	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 13:01:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 12:57:53	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:53:44	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:52:24	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:48:24	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:47:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 12:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 12:40:59	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:37:14	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 12:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 12:27:23	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:23:09	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:20:36	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 12:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 12:13:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:05:48	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:04:22	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 12:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 12:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 11:52:33	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 11:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 11:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 11:46:09	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 11:33:44	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 11:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 11:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 11:28:02	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 11:26:47	
+daemon: hpnainfo[1696]: hpnainfo: Failed to retrieve device state from d4:b2:7a:57:b2:3b status = 54
+err	Aug 13 11:26:26	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 11:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 11:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 11:06:34	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 11:01:47	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 11:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 10:58:01	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:56:39	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:50:04	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:47:30	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:46:46	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 10:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+warn	Aug 13 10:45:55	
+daemon: dnsd[1676]: oversized forward udp message (sz=864)
+err	Aug 13 10:45:54	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:43:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:41:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:39:32	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:36:01	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:33:15	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:31:46	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 10:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 10:28:04	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:28:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:22:45	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:18:14	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:16:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 10:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 10:08:24	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:07:20	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 10:02:59	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 13 10:02:25	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 13 10:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 10:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 10:01:30	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 09:58:29	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 09:57:59	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 09:54:36	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 09:51:52	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 09:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 09:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 09:38:44	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 09:35:52	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 09:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 09:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 09:28:54	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 09:27:58	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 09:22:20	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 09:18:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 09:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 09:16:40	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 09:01:41	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 09:01:39	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 08:59:18	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 08:57:58	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 08:49:29	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 08:46:40	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 08:46:38	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 08:39:39	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 08:31:39	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 08:31:37	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 08:29:48	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 08:27:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 08:26:59	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 08:16:38	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 08:16:36	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 08:01:37	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 08:01:35	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 07:57:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 07:57:29	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 07:47:38	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 07:46:36	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 07:46:34	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 07:41:41	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 07:37:49	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 07:31:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 07:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 07:27:59	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 07:27:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 07:19:24	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 07:18:09	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 07:16:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 07:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 07:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 07:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 06:58:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 06:57:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 06:48:34	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 06:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 06:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 06:41:17	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 06:38:44	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 06:32:11	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 06:32:04	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 06:31:49	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 06:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 06:28:52	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 06:27:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 06:19:02	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 06:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 06:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 06:12:47	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 06:09:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 06:01:54	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 06:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 06:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 05:57:54	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 05:56:48	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 05:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 05:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 05:45:33	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 05:41:53	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 05:40:25	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 05:38:28	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 05:37:01	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 05:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 05:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 05:26:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 05:19:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 05:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 05:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 05:16:22	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 05:10:08	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 05:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 05:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 05:00:18	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 04:50:27	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 04:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 04:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 04:43:50	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 04:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 04:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 04:29:58	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 04:27:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 04:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 04:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 04:11:07	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 04:02:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 04:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 04:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 03:58:01	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 03:57:45	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 03:51:42	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 03:50:39	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 13 03:50:35	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+info	Aug 13 03:50:06	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 13 03:49:19	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 03:46:47	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 03:46:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 03:45:38	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 03:43:52	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 03:41:38	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 03:35:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 03:31:46	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 03:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 03:25:03	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 03:21:58	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 03:16:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 03:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 03:02:18	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 03:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 03:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 02:57:41	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 02:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 02:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 02:35:11	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 02:32:48	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 02:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 02:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 02:30:04	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 02:27:40	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 02:22:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 02:17:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 02:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 02:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 02:13:07	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 02:02:39	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 02:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 02:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 01:57:58	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 01:57:38	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 01:56:15	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 01:55:06	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 01:52:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 01:51:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 01:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 01:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 01:44:44	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 01:42:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 01:32:38	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 01:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 01:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 01:31:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 01:27:36	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 01:23:18	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 01:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 01:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 01:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 01:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 00:57:35	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 00:56:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 00:55:31	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 00:47:01	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 00:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 00:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 00:37:06	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 00:31:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 00:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 00:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 00:29:41	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 13 00:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 00:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 00:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 13 00:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 23:57:31	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 23:52:25	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 23:47:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 23:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 23:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 23:38:07	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 23:34:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 23:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 23:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 23:28:17	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 23:27:29	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 23:18:29	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 23:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 23:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 23:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 23:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 22:58:39	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 22:48:58	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 22:47:27	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 22:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 22:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 22:39:07	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 22:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 22:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 22:27:26	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 22:19:27	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 22:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 22:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 22:08:34	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 12 22:08:02	
+daemon: dnsd[1676]: oversized forward udp message (sz=864)
+err	Aug 12 22:07:20	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 22:04:35	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 22:03:20	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 12 22:01:46	
+daemon: dnsd[1676]: oversized forward udp message (sz=864)
+err	Aug 12 22:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 22:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 22:01:30	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 21:59:47	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 21:49:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 21:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 21:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 21:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 21:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 21:30:17	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 21:27:23	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 21:27:11	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 21:20:27	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 21:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 21:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 21:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 21:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 21:00:45	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 20:57:22	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 20:51:07	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 20:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 20:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 20:41:17	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 20:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 20:31:41	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 20:21:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 20:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 20:16:40	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 20:01:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 20:01:41	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 20:01:39	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 19:57:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 19:53:36	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 19:53:05	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 19:46:40	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 19:46:39	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 19:41:51	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 19:38:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 19:31:39	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 19:31:37	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 19:27:20	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 19:24:38	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 19:16:38	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 19:16:36	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 19:01:37	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 19:01:34	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 18:46:34	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 18:46:32	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 18:42:52	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 18:33:01	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 18:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 18:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 18:23:12	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 18:20:10	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 18:16:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 18:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 18:01:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 18:01:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 17:57:17	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 17:56:13	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 17:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 17:46:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 17:43:39	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 17:42:17	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 17:40:24	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 17:35:34	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 17:34:12	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 17:31:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 17:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 17:29:09	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 17:27:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 17:24:22	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 17:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 17:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 17:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 17:01:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 16:57:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 16:54:47	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 16:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 16:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 16:40:41	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 16:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 16:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 16:30:52	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 16:27:15	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 16:20:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 16:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 16:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 16:01:47	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 16:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 16:01:22	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 15:57:14	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 15:51:33	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 15:46:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 15:46:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 15:40:07	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 12 15:32:57	
+daemon: nodesd[1725]:  dead: 14, probation: 0, cm: 38
+warn	Aug 12 15:32:57	
+daemon: nodesd[1725]:  nodes: 39, active: 10, sleepy/unknown: 15,
+warn	Aug 12 15:32:57	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 12 15:31:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 15:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 15:29:43	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 15:27:14	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 12 15:25:24	
+daemon: nodesd[1725]:  dead: 1, probation: 0, cm: 38
+warn	Aug 12 15:25:24	
+daemon: nodesd[1725]:  nodes: 39, active: 15, sleepy/unknown: 23,
+warn	Aug 12 15:25:24	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 12 15:21:58	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 15:20:47	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 15:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 15:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+warn	Aug 12 15:14:43	
+daemon: nodesd[1725]:  dead: 0, probation: 1, cm: 38
+warn	Aug 12 15:14:43	
+daemon: nodesd[1725]:  nodes: 40, active: 19, sleepy/unknown: 20,
+warn	Aug 12 15:14:43	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 12 15:12:59	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 15:10:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 15:08:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 15:05:49	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 12 15:02:12	
+daemon: nodesd[1725]:  dead: 14, probation: 0, cm: 38
+warn	Aug 12 15:02:12	
+daemon: nodesd[1725]:  nodes: 40, active: 19, sleepy/unknown: 7,
+warn	Aug 12 15:02:12	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 12 15:01:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 15:01:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 15:01:07	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 14:57:55	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 14:52:17	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 14:51:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 12 14:48:31	
+daemon: nodesd[1725]:  dead: 1, probation: 0, cm: 38
+warn	Aug 12 14:48:31	
+daemon: nodesd[1725]:  nodes: 39, active: 5, sleepy/unknown: 33,
+warn	Aug 12 14:48:31	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 12 14:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 14:46:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 14:46:20	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 12 14:39:34	
+daemon: nodesd[1725]:  dead: 0, probation: 0, cm: 38
+warn	Aug 12 14:39:34	
+daemon: nodesd[1725]:  nodes: 40, active: 21, sleepy/unknown: 19,
+warn	Aug 12 14:39:34	
+daemon: nodesd[1725]: in flood defensive mode
+warn	Aug 12 14:34:54	
+daemon: nodesd[1725]:  dead: 1, probation: 2, cm: 38
+warn	Aug 12 14:34:54	
+daemon: nodesd[1725]:  nodes: 41, active: 9, sleepy/unknown: 29,
+warn	Aug 12 14:34:54	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 12 14:34:14	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 14:32:26	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 14:31:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 14:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 14:29:18	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 14:27:12	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 12 14:25:51	
+daemon: nodesd[1725]:  dead: 1, probation: 1, cm: 38
+warn	Aug 12 14:25:51	
+daemon: nodesd[1725]:  nodes: 41, active: 17, sleepy/unknown: 22,
+warn	Aug 12 14:25:51	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 12 14:21:47	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 14:16:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 14:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+warn	Aug 12 14:16:07	
+daemon: nodesd[1725]:  dead: 13, probation: 0, cm: 59
+warn	Aug 12 14:16:07	
+daemon: nodesd[1725]:  nodes: 60, active: 29, sleepy/unknown: 18,
+warn	Aug 12 14:16:07	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 12 14:11:58	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 14:02:04	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 14:01:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 14:01:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 13:57:39	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:57:11	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:56:13	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 12 13:53:03	
+daemon: nodesd[1725]:  dead: 197, probation: 3, cm: 256
+warn	Aug 12 13:53:03	
+daemon: nodesd[1725]:  nodes: 260, active: 35, sleepy/unknown: 25,
+warn	Aug 12 13:53:03	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 12 13:48:32	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:46:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 13:46:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 13:43:22	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:40:48	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:31:46	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 13:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 13:30:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:28:52	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:27:47	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:27:10	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:23:29	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:19:02	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:16:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 13:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 13:13:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:12:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:08:17	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:04:25	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 13:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 13:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 13:00:33	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 12:58:13	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 12:57:10	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 12:55:29	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 12:51:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 12:47:13	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 12:46:46	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 12:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 12:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 12:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 12:29:51	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 12:22:28	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 12:20:01	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 12:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 12:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 12:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 12:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 11:59:12	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:57:08	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:50:31	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 11:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 11:45:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 11:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 11:30:52	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:27:07	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:26:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:17:03	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 11:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 11:14:32	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:13:32	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:12:08	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:11:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:03:41	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 11:01:47	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 11:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 11:00:35	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 10:57:06	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 10:53:51	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 10:46:46	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 10:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 10:43:59	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 10:42:15	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 10:33:18	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 10:31:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 10:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 10:27:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 10:21:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 10:18:31	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 10:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 10:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 10:12:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 10:11:33	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 10:10:38	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 10:09:34	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 10:09:03	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+info	Aug 12 10:06:31	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 10:03:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 10:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 10:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 10:01:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:59:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:58:07	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:57:03	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:56:24	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:54:08	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 09:53:32	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 09:53:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 09:53:00	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+info	Aug 12 09:52:32	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 09:51:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:50:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:48:44	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:47:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 09:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+info	Aug 12 09:46:33	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 09:45:25	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:43:31	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 09:42:59	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 09:41:53	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:40:10	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:37:55	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 09:37:22	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+info	Aug 12 09:35:26	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 09:33:42	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 09:33:06	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 09:31:47	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 09:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 09:30:17	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:27:22	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:27:02	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:25:42	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 09:25:37	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+info	Aug 12 09:25:10	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 09:23:59	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:22:01	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 09:21:26	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 09:20:24	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 09:19:53	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 09:18:55	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 09:18:00	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 09:17:09	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 09:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 09:12:23	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:11:11	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:09:36	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 09:09:29	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 09:08:15	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:06:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 09:05:28	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 09:04:08	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 09:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 09:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 09:01:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 09:00:59	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 08:57:01	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 08:56:47	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 08:53:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 08:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 08:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 08:40:42	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 08:37:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 08:34:36	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 08:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 08:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 08:23:36	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 08:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 08:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 08:13:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 08:11:20	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 08:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 08:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 07:56:59	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 07:54:06	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 07:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 07:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 07:44:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 07:34:26	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 07:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 07:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 07:26:58	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 07:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 07:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 07:14:17	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 07:07:50	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 07:04:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 07:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 07:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 06:55:04	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 06:46:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 06:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 06:46:24	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 06:40:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 06:32:03	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 06:31:48	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 06:31:41	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 06:29:42	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 06:28:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 06:26:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 06:19:51	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 06:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 06:16:40	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 06:09:13	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 06:04:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 06:01:41	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 06:01:39	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 06:00:11	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 05:50:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 05:46:40	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 05:46:38	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 05:40:23	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 05:35:28	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 05:31:39	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 05:31:37	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 05:27:53	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 05:26:52	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 05:26:41	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 05:16:49	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 05:16:38	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 05:16:36	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 05:08:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 05:05:11	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 05:01:37	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 05:01:35	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 04:58:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 04:56:51	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 04:48:31	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 04:46:36	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 04:46:34	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 04:44:11	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 04:38:40	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 04:36:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 04:34:01	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 04:31:35	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 04:31:33	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 04:24:11	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 04:20:45	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 04:16:34	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 04:16:32	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 04:14:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 04:04:30	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 04:02:14	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 04:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 04:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 03:56:47	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 03:46:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 03:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 03:40:06	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 03:37:23	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 03:35:01	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 03:31:47	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 03:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 03:26:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 03:16:46	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 03:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 03:15:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 03:09:27	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 03:01:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 03:01:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 02:56:45	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 02:55:35	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 02:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 02:46:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 02:45:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 02:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 02:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 02:30:01	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 02:26:44	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 02:26:06	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 02:19:32	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 02:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 02:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 02:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 02:01:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 01:56:40	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 01:56:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 01:55:07	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 01:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 01:46:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 01:46:41	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 01:36:50	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 01:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 01:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 01:31:32	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 01:29:19	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 01:22:15	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 01:17:09	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 01:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 01:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 01:11:15	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 01:06:18	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 01:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 01:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 00:56:49	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:56:35	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:54:26	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 00:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 00:44:36	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:37:22	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:34:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 00:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 00:26:34	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:22:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:20:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 00:20:54	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+info	Aug 12 00:20:25	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 00:19:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:17:54	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:16:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 00:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 00:14:14	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:11:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 00:11:24	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 00:07:39	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 00:07:07	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 12 00:05:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:04:13	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:02:33	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 12 00:01:46	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 00:01:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 12 00:00:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 12 00:00:09	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 23:56:32	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 23:54:36	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 23:53:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 23:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 23:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 23:45:29	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 23:42:40	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 23:40:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 23:38:02	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 23:35:41	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 23:32:02	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 23:31:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 23:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 23:26:31	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 23:25:51	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 23:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 23:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 23:16:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 23:06:11	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 23:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 23:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 23:00:34	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 22:56:29	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 22:56:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 22:48:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 22:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 22:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 22:42:14	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 22:38:10	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 22:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 22:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 22:28:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 22:26:27	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 22:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 22:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 22:12:08	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 22:07:20	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 22:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 22:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 21:58:50	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 21:56:26	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 21:49:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 21:46:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 21:46:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 21:39:10	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 21:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 21:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 21:29:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 21:26:26	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 21:24:13	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 21:18:13	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 21:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 21:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 21:09:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 21:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 21:01:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 21:01:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 20:59:45	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 20:56:26	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 20:49:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 20:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 20:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 20:38:51	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 20:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 20:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 20:31:14	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 20:26:25	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 20:20:33	
+daemon: ustatsd[1759]: new_nodes: Update host 6C19C0B4F45C with dpi info 11,25,16,30,609,3 
+err	Aug 11 20:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 20:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 20:14:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 20:11:04	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 20:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 20:01:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 19:56:24	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 19:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 19:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 19:46:11	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 19:44:39	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 19:31:46	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 19:31:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 19:16:47	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 19:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 19:15:11	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 19:11:58	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 19:05:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 19:03:29	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 19:01:46	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 19:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 18:56:23	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 18:46:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 18:46:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 18:45:40	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 18:42:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 18:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 18:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 18:26:22	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 18:26:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 18:19:19	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 18:16:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 18:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 18:16:11	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 18:03:32	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 18:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 18:01:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 18:01:35	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 17:46:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 17:46:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 17:46:40	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 17:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 17:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 17:27:00	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 17:26:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 17:17:10	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 17:16:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 17:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 17:11:39	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 17:11:34	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 17:11:19	
+daemon: httpd[1698]: OpenSSL error:1409E10F:SSL routines:ssl3_write_bytes:bad length
+err	Aug 11 17:07:21	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 17:01:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 17:01:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 16:57:30	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 16:56:20	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 16:46:45	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 16:46:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 16:37:45	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 16:31:44	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 16:31:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 16:26:19	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 16:25:48	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 16:16:43	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 16:16:42	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 16:08:06	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 11 16:02:49	
+daemon: dnsd[1676]: oversized forward udp message (sz=864)
+err	Aug 11 16:01:46	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 16:01:40	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 15:56:18	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 15:48:25	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 15:46:41	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 15:46:39	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 15:31:40	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 15:31:39	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 15:28:46	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 15:26:17	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 15:18:56	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 15:16:40	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 15:16:37	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 15:09:05	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 15:01:37	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 15:01:36	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 14:49:26	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:49:02	
+daemon: wifimgrd[1775]: wifi_device_get_assoclist: failed to get assoclist for dev wifi0, err 148 
+err	Aug 11 14:46:37	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 14:46:35	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 14:42:29	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:40:53	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 14:40:21	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 14:38:19	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 14:38:18	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 14:36:26	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:34:42	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:31:36	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 14:31:34	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+info	Aug 11 14:30:40	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 14:29:40	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:28:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 14:28:28	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 14:26:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:23:33	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:21:48	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:19:10	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 14:19:07	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+info	Aug 11 14:18:39	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 14:17:45	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:16:35	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 14:16:33	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 14:12:59	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 14:12:52	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+info	Aug 11 14:12:26	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 14:11:37	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:09:35	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:08:27	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:06:28	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:05:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 14:04:49	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 14:04:31	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 14:04:19	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 14:03:57	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 14:01:24	
+daemon: ustatsd[1759]: new_nodes: Update host 80B03DEB3ACE with dpi info 11,25,16,29,1740,3 
+err	Aug 11 14:01:24	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 14:00:16	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 13:58:06	
+daemon: rulemgrd[6376]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 13:57:45	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 13:57:30	
+daemon: ustatsd[1759]: new_nodes: Update host 88E9FE669285 with dpi info 11,12,7,1,138,4 
+info	Aug 11 13:57:27	
+daemon: ustatsd[1759]: new_nodes: Update host 74428B9CE57C with dpi info 11,25,16,29,1740,3 
+err	Aug 11 13:57:18	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 13:57:00	
+daemon: rulemgrd[6376]: CMD_RET: 4352
+info	Aug 11 13:57:00	
+daemon: rulemgrd[6376]: CMD_EXEC: "insmod /lib/modules/3.4.11-rt19/kernel/net/ipv4/netfilter/nf_nat_sip.ko 2>&1"
+info	Aug 11 13:57:00	
+daemon: rulemgrd[6376]: CMD_RET: 4352
+info	Aug 11 13:57:00	
+daemon: rulemgrd[6376]: CMD_EXEC: "insmod /lib/modules/3.4.11-rt19/kernel/net/netfilter/nf_conntrack_sip.ko 2>&1"
+info	Aug 11 13:56:59	
+daemon: ntpd[7855]: Listening on routing socket on fd #23 for interface updates
+info	Aug 11 13:56:59	
+daemon: ntpd[7855]: peers refreshed
+info	Aug 11 13:56:59	
+daemon: ntpd[7855]: Listen normally on 6 br1 fe80::d6b2:7aff:fe57:b238 UDP 123
+info	Aug 11 13:56:59	
+daemon: ntpd[7855]: Listen normally on 5 lo ::1 UDP 123
+info	Aug 11 13:56:59	
+daemon: ntpd[7855]: Listen normally on 4 br1 2001:506:7ae3:2a7::1 UDP 123
+info	Aug 11 13:56:59	
+daemon: ntpd[7855]: Listen normally on 3 br1 108.67.0.148 UDP 123
+info	Aug 11 13:56:59	
+daemon: ntpd[7855]: Listen normally on 2 lo 127.0.0.1 UDP 123
+info	Aug 11 13:56:59	
+daemon: ntpd[7855]: Listen and drop on 1 v6wildcard :: UDP 123
+info	Aug 11 13:56:59	
+daemon: ntpd[7855]: Listen and drop on 0 v4wildcard 0.0.0.0 UDP 123
+notice	Aug 11 13:56:59	
+daemon: ntpd[7855]: proto: precision = 10.400 usec
+notice	Aug 11 13:56:59	
+daemon: ntpd[7855]: ntpd 4.2.6p5@1.2349 Tue Jun 16 16:12:37 UTC 2020 (1)
+info	Aug 11 13:56:43	
+daemon: httpd[1698]: DNS server name: attlocal.net
+info	Aug 11 13:56:43	
+daemon: httpd[1698]: bind(fd=22) family 10, port 443 to 2600:1700:ae30:2a70::1 scope 20
+info	Aug 11 13:56:43	
+daemon: httpd[1698]: DNS server name: attlocal.net
+info	Aug 11 13:56:43	
+daemon: httpd[1698]: bind(fd=21) family 10, port 80 to 2600:1700:ae30:2a70::1 scope 20
+err	Aug 11 13:56:41	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 13:56:40	
+daemon: timemgrd[1754]:  broadband up and ntpd start, bb: 2 (pm_bb_dhcp6c)
+err	Aug 11 13:56:40	
+daemon: timemgrd[1754]: NTP server ntp2.sbcglobal.net is not IPv6 capable, or unavailable
+info	Aug 11 13:56:40	
+daemon: httpd[1698]: DNS server name: attlocal.net
+info	Aug 11 13:56:40	
+daemon: httpd[1698]: bind(fd=20) family 10, port 443 to fe80::d6b2:7aff:fe57:b239 scope 20
+err	Aug 11 13:56:40	
+daemon: timemgrd[1754]: NTP server ntp1.sbcglobal.net is not IPv6 capable, or unavailable
+info	Aug 11 13:56:39	
+daemon: httpd[1698]: DNS server name: attlocal.net
+info	Aug 11 13:56:39	
+daemon: httpd[1698]: bind(fd=19) family 10, port 80 to fe80::d6b2:7aff:fe57:b239 scope 20
+info	Aug 11 13:56:35	
+daemon: radvd[7679]: version 1.9.3 started
+info	Aug 11 13:56:35	
+daemon: radvd[7679]: version 1.9.3 started
+info	Aug 11 13:56:33	
+daemon: lmd[1704]: dhcp6c0: XID mismatch
+info	Aug 11 13:56:33	
+daemon: lmd[1704]: dhcp6c0: XID mismatch
+notice	Aug 11 13:56:31	
+daemon: ntpd[5432]: ntpd exiting on signal 15
+info	Aug 11 13:56:31	
+daemon: lmd[1704]: ip6net1: set assigned addr 2001:506:7ae3:2a7::1/64
+info	Aug 11 13:56:30	
+daemon: lmd[1704]: ip6net0: interface is up
+info	Aug 11 13:56:30	
+daemon: lmd[1704]: ip6net0: set assigned addr 2600:1700:ae30:2a70::1/64
+err	Aug 11 13:56:30	
+daemon: lmd[1704]: ip6net0: pace_nl_add_link_ip6addr returns No Access
+info	Aug 11 13:56:30	
+daemon: lmd[1704]: ip6net0: tw_ulib_dhcp6d_set_addr_param returned 0 tid = 8130312
+info	Aug 11 13:56:30	
+daemon: ntpd[5432]: peers refreshed
+info	Aug 11 13:56:30	
+daemon: ntpd[5432]: Listen normally on 6 br1 2001:506:7ae3:2a7::1 UDP 123
+info	Aug 11 13:56:24	
+daemon: lmd[1704]: dhcp6c0: create an address 2001:506:7ae3:2a7::1 pltime=3600, vltime=3600
+info	Aug 11 13:56:20	
+daemon: lmd[1704]: dhcp6c0: XID mismatch
+err	Aug 11 13:56:18	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+info	Aug 11 13:56:17	
+daemon: lmd[1704]: dhcp6c: create a prefix 2600:1700:ae30:2a70::/60 pltime=3600, vltime=3600
+err	Aug 11 13:56:09	
+daemon: cmd[1561]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 13:56:07	
+daemon: rulemgrd[6376]: Starting Firewall Log
+info	Aug 11 13:55:50	
+daemon: ntpd[5432]: Listening on routing socket on fd #22 for interface updates
+info	Aug 11 13:55:50	
+daemon: ntpd[5432]: peers refreshed
+info	Aug 11 13:55:50	
+daemon: ntpd[5432]: Listen normally on 5 br1 fe80::d6b2:7aff:fe57:b238 UDP 123
+info	Aug 11 13:55:50	
+daemon: ntpd[5432]: Listen normally on 4 lo ::1 UDP 123
+info	Aug 11 13:55:50	
+daemon: ntpd[5432]: Listen normally on 3 br1 108.67.0.148 UDP 123
+info	Aug 11 13:55:50	
+daemon: ntpd[5432]: Listen normally on 2 lo 127.0.0.1 UDP 123
+info	Aug 11 13:55:50	
+daemon: ntpd[5432]: Listen and drop on 1 v6wildcard :: UDP 123
+info	Aug 11 13:55:50	
+daemon: ntpd[5432]: Listen and drop on 0 v4wildcard 0.0.0.0 UDP 123
+notice	Aug 11 13:55:50	
+daemon: ntpd[5432]: proto: precision = 9.405 usec
+notice	Aug 11 13:55:50	
+daemon: ntpd[5432]: ntpd 4.2.6p5@1.2349 Tue Jun 16 16:12:37 UTC 2020 (1)
+notice	Aug 11 13:55:46	
+daemon: crashcollect: New kernel crash log in /rwdata/subsys/crashcollect/crashlog-00000008
+info	Aug 11 13:55:36	
+daemon: hpnainfo[1696]: main:4616, secs_adjust: -746
+info	Aug 11 13:55:36	
+daemon: crashlog[1657]: checking flags after ntp
+info	Aug 11 13:55:34	
+daemon: lmd[1704]: ipnet0:   addr 239.192.0.0 shift 14 action 1 msgsize = 56
+info	Aug 11 13:55:34	
+daemon: lmd[1704]: ipnet0:  if br1 enabled 1 default rule 0 count 1
+err	Aug 11 14:07:56	
+daemon: voiced[1880]: configuration update - Unknown error 202
+err	Aug 11 14:07:56	
+daemon: voiced[1880]: vd_pub_config_update error 
+info	Aug 11 14:07:56	
+daemon: cwmd[1660]: inited ca label 'root'
+err	Aug 11 14:07:55	
+daemon: mifd[1661]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+info	Aug 11 14:07:48	
+daemon: timemgrd[1754]:  broadband up and ntpd start, bb: 0 (pm_bb_if)
+err	Aug 11 14:07:48	
+daemon: timemgrd[1754]: NTP server ntp2.sbcglobal.net is not IPv6 capable, or unavailable
+err	Aug 11 14:07:47	
+daemon: voiced[1880]: configuration update - Unknown error 202
+err	Aug 11 14:07:47	
+daemon: voiced[1880]: vd_pub_config_update error 
+err	Aug 11 14:07:46	
+daemon: dlnamgr[1674]: dlnamgrd:  in cm_update_mod:  dlnamgrd_update_config failed!
+err	Aug 11 14:07:46	
+daemon: dlnamgr[1674]: Failed to open upnp config file (/etc/miniupnpd/miniupnpd.conf) for writing
+info	Aug 11 14:07:45	
+daemon: rulemgrd[1747]: CMD_RET: 1024
+info	Aug 11 14:07:45	
+daemon: rulemgrd[1747]: CMD_EXEC: "/bin/iptables -t filter -F F_CASCROUT_A"
+err	Aug 11 14:07:45	
+daemon: voiced[1880]: configuration update - Unknown error 202
+err	Aug 11 14:07:45	
+daemon: voiced[1880]: vd_pub_config_update error 
+info	Aug 11 14:07:44	
+daemon: lmd[1704]: ipnet0:   addr 239.192.0.0 shift 14 action 1 msgsize = 56
+info	Aug 11 14:07:44	
+daemon: lmd[1704]: ipnet0:  if br1 enabled 1 default rule 0 count 1
+info	Aug 11 14:07:44	
+daemon: lmd[1704]: ipnet0: UP on br1 DNS1: 68.94.156.8 DNS2: 68.94.157.8
+info	Aug 11 14:07:44	
+daemon: lmd[1704]: ipnet0: UP on br1 with 108.67.0.148/22 GW:108.67.0.1
+info	Aug 11 14:07:44	
+daemon: lmd[1704]: ipnet0:   addr 239.192.0.0 shift 14 action 1 msgsize = 56
+info	Aug 11 14:07:44	
+daemon: lmd[1704]: ipnet0:  if br1 enabled 1 default rule 0 count 1
+err	Aug 11 14:07:44	
+daemon: voiced[1880]: configuration update - Unknown error 202
+err	Aug 11 14:07:44	
+daemon: voiced[1880]: vd_pub_config_update error 
+err	Aug 11 14:07:44	
+daemon: httpd[1698]: OpenSSL error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+warn	Aug 11 14:07:42	
+daemon: lmd[1704]: dhcp6c: client6_startall start
+err	Aug 11 14:07:42	
+daemon: lmd[1704]: dhcp6c0: ifp 0x00838dc0
+err	Aug 11 14:07:42	
+daemon: lmd[1704]: dhcp6c: ifid 29 and linkid 29
+err	Aug 11 14:07:42	
+daemon: lmd[1704]: dhcp6c0: going to ifinit
+warn	Aug 11 14:07:42	
+daemon: lmd[1704]: dhcp6c: dhcp6c_up
+info	Aug 11 14:07:39	
+daemon: rulemgrd[1747]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 14:07:39	
+daemon: voiced[1880]: configuration update - Unknown error 202
+err	Aug 11 14:07:39	
+daemon: voiced[1880]: vd_pub_config_update error 
+err	Aug 11 14:07:35	
+daemon: httpd[1698]: OpenSSL error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+err	Aug 11 14:07:35	
+daemon: voiced[1880]: configuration update - Unknown error 202
+err	Aug 11 14:07:35	
+daemon: voiced[1880]: vd_pub_config_update error 
+warn	Aug 11 14:07:34	
+daemon: lmd[1704]: dhcp6c: client6_startall start
+err	Aug 11 14:07:34	
+daemon: lmd[1704]: dhcp6c0: ifp 0x007f1c90
+err	Aug 11 14:07:34	
+daemon: lmd[1704]: dhcp6c: ifid 29 and linkid 29
+err	Aug 11 14:07:34	
+daemon: lmd[1704]: dhcp6c0: going to ifinit
+warn	Aug 11 14:07:34	
+daemon: lmd[1704]: dhcp6c: dhcp6c_up
+info	Aug 11 14:07:33	
+daemon: lmd[1704]: ip6net1: interface is up
+err	Aug 11 14:07:33	
+daemon: lmd[1704]: ip6net1: pace_nl_add_link_ip6addr returns No Access
+info	Aug 11 14:07:33	
+daemon: lmd[1704]: ip6net1: module entering dhcpv6 client mode
+info	Aug 11 14:07:20	
+daemon: wifimgrd[1775]: wifi_dev_qtn_config: wifi_dev_qtn_config finished
+info	Aug 11 14:07:20	
+daemon: wifimgrd[1775]: wifi_dev_qtn_set_ssid: qtn_ssid is HoneyPot
+info	Aug 11 14:07:11	
+daemon: dsld[1681]: dsl_bg_remove_task: removed task QLN_AVG, arg: 0x00622230
+info	Aug 11 14:07:11	
+daemon: rulemgrd[1747]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 14:07:00	
+daemon: lmd[1704]: eapol0: unable to set default dscp 'CS0'
+info	Aug 11 14:06:58	
+daemon: dsld[1681]: dsld_exec("xtmctl operate conn --createnetdev 1.1 ptm0") = 0 executed in 0.3745 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:58	
+daemon: dsld[1681]: dsld_exec("xtmctl operate conn --addq 1.1 7 wfq 10 768 768 0") = 0 executed in 0.0772 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:58	
+daemon: dsld[1681]: dsld_exec("xtmctl operate conn --addq 1.1 6 wfq 10 0 128 16000") = 0 executed in 0.0263 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:58	
+daemon: dsld[1681]: dsld_configure_ptm_tx_queues: skipping xtmctl config for QOS q_id=6
+info	Aug 11 14:06:58	
+daemon: dsld[1681]: dsld_exec("xtmctl operate conn --addq 1.1 5 wfq 10 0 128 16000") = 0 executed in 0.0275 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:58	
+daemon: dsld[1681]: dsld_exec("xtmctl operate conn --addq 1.1 4 wfq 10 0 256 16000") = 0 executed in 0.0791 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:58	
+daemon: dsld[1681]: dsld_exec("xtmctl operate conn --addq 1.1 3 wfq 30 0 800000 16000") = 0 executed in 0.0784 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:58	
+daemon: dsld[1681]: dsld_exec("xtmctl operate conn --addq 1.1 2 wfq 10 0 256 16000") = 0 executed in 0.0783 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:58	
+daemon: dsld[1681]: dsld_exec("xtmctl operate conn --addq 1.1 1 wfq 10 0 256 16000") = 0 executed in 0.0783 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:58	
+daemon: dsld[1681]: dsld_exec("xtmctl operate conn --addq 1.1 0 wfq 10 1340 13400 16000") = 0 executed in 0.0787 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:57	
+daemon: dsld[1681]: dsld_exec("xtmctl operate conn --add 1.1") = 0 executed in 0.1807 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:57	
+daemon: rulemgrd[1747]: CMD_RET: 4352
+info	Aug 11 14:06:57	
+daemon: rulemgrd[1747]: CMD_EXEC: "insmod /lib/modules/3.4.11-rt19/kernel/net/ipv4/netfilter/nf_nat_sip.ko 2>&1"
+info	Aug 11 14:06:57	
+daemon: rulemgrd[1747]: CMD_RET: 4352
+info	Aug 11 14:06:57	
+daemon: rulemgrd[1747]: CMD_EXEC: "insmod /lib/modules/3.4.11-rt19/kernel/net/netfilter/nf_conntrack_sip.ko 2>&1"
+info	Aug 11 14:06:57	
+daemon: dsld[1681]: dsld_configure_ptm_tx_queues: 9 entries in queue table, ptm_pre_emption: 0
+info	Aug 11 14:06:57	
+daemon: dsld[1681]: dsld_set_connection_cfg: configuration for PTM
+info	Aug 11 14:06:57	
+daemon: rulemgrd[1747]: tw_ulib_fw_sip_rules: tw_ulib_get_ifname_by_sysname failed - 2
+info	Aug 11 14:06:56	
+daemon: lmd[1704]: dsl0: Country: {B500}  Vendor: {BDCM}  Specific: {B0CB}
+info	Aug 11 14:06:56	
+daemon: lmd[1704]: dsl0: Margin:13.5/11.8 Atten:15.7/17.0 Power:14.5/-4.9
+info	Aug 11 14:06:56	
+daemon: lmd[1704]: dsl0: up G.993.2_17a interleaved Rate:60024/13055 Max:84568/23496
+
+System Log Lists
+Type	Date/Time	Event Description
+info	Aug 11 14:06:53	
+daemon: dsld[1681]: dsl_bg_add
+info	Aug 11 14:06:53	
+daemon: dsld[1681]: Line 0: Upstream PTM pre-emption is NOT CONFIGURED for this SHOWTIME
+info	Aug 11 14:06:53	
+daemon: dsld[1681]: bcmdsl_get_tpstc_mode: line: 0, PTM pre-emption status(DS/US): DSLAM: 0/0, CPE: 0/0, disable:0, Bonded: 0
+info	Aug 11 14:06:53	
+daemon: dsld[1681]: dsld_device_monitor: received LINK_TRAFFIC_TYPE_MISMATCH message (No action required)
+info	Aug 11 14:06:51	
+daemon: dsld[1681]: ENR(INNER_PAIR) = +0.0 dB
+err	Aug 11 14:06:44	
+daemon: httpd[1698]: OpenSSL error:14094418:SSL routines:ssl3_read_bytes:tlsv1 alert unknown ca
+info	Aug 11 14:06:40	
+daemon: rulemgrd[1747]: Starting Firewall Log
+info	Aug 11 14:06:40	
+daemon: dsld[1681]: VDSL2 Channel Training: Line: 0, vector_state: 4, enabled: 0
+err	Aug 11 14:06:38	
+daemon: voiced[1880]: configuration update - Unknown error 202
+err	Aug 11 14:06:38	
+daemon: voiced[1880]: vd_pub_config_update error 
+info	Aug 11 14:06:34	
+daemon: wifimgrd[1775]: wifi_dev_qtn_config: Wireless config: deviceid=9
+info	Aug 11 14:06:34	
+daemon: wifimgrd[1775]: reconfiguring deviceid= 9 because 109 params changed
+info	Aug 11 14:06:34	
+daemon: wifimgrd[1775]: Device 9 rebooted 
+warn	Aug 11 14:06:34	
+daemon: lmd[1704]: tw_ulib_device_config_wireless:  Bringing up ethblink_wifi
+warn	Aug 11 14:06:34	
+daemon: lmd[1704]: tw_ulib_device_config_wireless:  Bringing down ethblink_wifi
+err	Aug 11 14:06:33	
+daemon: voiced[1880]: configuration update - Unknown error 202
+err	Aug 11 14:06:33	
+daemon: voiced[1880]: vd_pub_config_update error 
+err	Aug 11 14:06:33	
+daemon: voiced[1880]: configuration update - Unknown error 202
+err	Aug 11 14:06:33	
+daemon: voiced[1880]: vd_pub_config_update error 
+info	Aug 11 14:06:27	
+daemon: wifievtd[1835]: Server configuration 'nondefined:-P default:+PIMN WPACTRL3:-'
+info	Aug 11 14:06:26	
+daemon: lmd[1704]: wifi0: Initialized wifi lm to httpd messaging socket
+info	Aug 11 14:06:26	
+daemon: lmd[1704]: wireless device 9 has the right version
+info	Aug 11 14:06:26	
+daemon: lmd[1704]: wireless device 9, FW version need to be AT.1170.49.4.77
+info	Aug 11 14:06:26	
+daemon: lmd[1704]: wireless device 9 current FW is AT.1170.49.4.77
+err	Aug 11 14:06:26	
+daemon: wifimgrd[1775]: wifi_device_stop_services, killall -15 wps_monitor 2>/dev/null failed
+warn	Aug 11 14:06:26	
+daemon: lmd[1704]: tw_ulib_device_config_wireless:  Bringing up ethblink_wifi
+warn	Aug 11 14:06:25	
+daemon: lmd[1704]: tw_ulib_device_config_wireless:  Bringing down ethblink_wifi
+info	Aug 11 14:06:25	
+daemon: wifimgrd[1775]: restarting services on wl0
+err	Aug 11 14:06:24	
+daemon: lmd[1704]: module phone1 default timeout called
+err	Aug 11 14:06:24	
+daemon: lmd[1704]: module phone0 default timeout called
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: dsl_bg_remove_task: removed task UPDATE_QUEUES, arg: 0x00000001
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: dsld_update_queues: QOS rules re-initialized successfully
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: dsld_qos_init: 9 dsl0 queue entries added to the table
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: 16777216	dev:dsl0,eth4	8	8	10	96000	16000	0	0	0
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: 16777216	dev:dsl0,eth4	7	7	10	16000	16000	0	0	0
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: 16777216	dev:dsl0,eth4	6	6	10	16000	16000	0	0	0
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: 16777216	dev:dsl0,eth4	5	5	10	16000	16000	0	0	0
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: 16777216	dev:dsl0,eth4	4	4	10	32000	16000	0	0	0
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: 16777216	dev:dsl0,eth4	3	3	30	100000000	16000	0	0	0
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: 16777216	dev:dsl0,eth4	2	2	10	32000	16000	0	0	0
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: 16777216	dev:dsl0,eth4	1	1	10	32000	16000	0	0	0
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: 16777216	dev:dsl0,eth4	0	0	10	1675000	16000	0	0	0
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: Queue entries for dsl0
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: dsl_remove_q_table: QOS table removed
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: dsld_run: priv_drv: 0x0043DF80, flags changed to 0x000095A0
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: bcmdsl_start() success
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: DSL restart completed, priv_drv->bp_flags: 38176
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: bcmdsl_restart: xdslCtl_ConnectionStart(line=0) success
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: Using default G.994 chipset Vendor ID
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: set_atur_eoc_data(line=0): EOC sys-vendor-id: [b500574952450000]
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: set_atur_eoc_data(line=0): EOC sys-version-no: [U6F039r.26u]
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: set_atur_eoc_data(line=0): EOC sys-serial-no: [16171N078803 5268 1171533024]
+info	Aug 11 14:06:24	
+daemon: dsld[1681]: bcmdsl_init line=0: DSL FW Version: [A2pv6F039r.d26u], PHY:39:1800:1, DRV:25:-2048
+info	Aug 11 14:06:23	
+daemon: httpd[1698]: DNS server name: attlocal.net
+info	Aug 11 14:06:23	
+daemon: httpd[1698]: bind(fd=14) family 2, port 51009 to 192.168.1.254 scope 0
+info	Aug 11 14:06:23	
+daemon: httpd[1698]: DNS server name: attlocal.net
+info	Aug 11 14:06:23	
+daemon: httpd[1698]: bind(fd=13) family 2, port 51008 to 192.168.1.254 scope 0
+info	Aug 11 14:06:22	
+daemon: dsld[1681]: bcmdsl_restart: bcmdsl_debug_command(0,38,0,0xE,0)
+info	Aug 11 14:06:22	
+daemon: wifievtd[1835]: unable to set/get config
+err	Aug 11 14:06:22	
+daemon: wifievtd[1835]:  receive failed line 363 
+err	Aug 11 14:06:22	
+daemon: wifievtd[1835]: Receive failed err 11 
+info	Aug 11 14:06:22	
+daemon: wifievtd[1835]: Connection to qevt server established
+info	Aug 11 14:06:22	
+daemon: dsld[1681]: dsld_exec("xtmctl operate intf --state 1 enable") = 0 executed in 0.0798 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:22	
+daemon: dsld[1681]: dsld_exec("xtmctl start --rq0 400 --rq1 400 --bondingenable --autosense_atm disable ") = 0 executed in 0.1808 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:22	
+daemon: dsld[1681]: dsld_init_L2_module: Pace custom xtmctl args are enabled
+info	Aug 11 14:06:22	
+daemon: dsld[1681]: dsld_init_L2_module: chip_id: 0x00063268, force_phy_type: 0
+info	Aug 11 14:06:22	
+daemon: dsld[1681]: dsld_exec("xtmctl stop") = 0 executed in 0.0801 secs, syscmd status: 0 (Success)
+info	Aug 11 14:06:21	
+daemon: dsld[1681]: dsld_exec("xtmctl operate intf --state 1 disable") = 0 executed in 0.1809 secs, syscmd status: 10752 (Unknown error 10752)
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:       selected_protocol: 100
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:     supported_protocols: 0x000026AE
+info	Aug 11 14:06:21	
+daemon: dsld[1681]: Other Protocol Config
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:        xdslMiscCfgParam: 0x00000009
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:     maxAggrDataRateKbps: 0x00000000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:       maxDsDataRateKbps: 0x00000000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:       maxUsDataRateKbps: 0x00000000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:           xdslCfg4Value: 0x00000000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:            xdslCfg4Mask: 0x00000000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:           xdslCfg3Value: 0x00000000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:            xdslCfg3Mask: 0x00000000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:           xdslCfg2Value: 0x00000000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:            xdslCfg2Mask: 0x00000000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:           xdslCfg1Value: 0x00401000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:            xdslCfg1Mask: 0x00401000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:       vdslCfgFlagsValue: 0x00018000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:        vdslCfgFlagsMask: 0x00018000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:              vdslParam1: 0x00000000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:               vdslParam: 0x00ff00ff
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:         adslAnnexCParam: 0x00000000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]: Additional xDSL config
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:    xdslAuxFeaturesValue: 0x001e0183
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:     xdslAuxFeaturesMask: 0x005e0183
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:      adslDemodCap2Value: 0x00140000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:       adslDemodCap2Mask: 0x00d40000
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:              adsl2Param: 0x0000c001
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:        adslDemodCapMask: 0x0090447a
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:    adslHsModeSwitchTime: 0
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:    adslPwmSyncClockFreq: 0
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:      adslLOMTimeThldSec: -1
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:    adslShowtimeMarginQ4: -1
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:    adslTrainingMarginQ4: -1
+
+System Log Lists
+Type	Date/Time	Event Description
+info	Aug 11 14:06:21	
+daemon: dsld[1681]:         adslAnnexAParam: 0x01e00980
+info	Aug 11 14:06:21	
+daemon: dsld[1681]: Primary xDSL config for Line 0
+err	Aug 11 14:06:21	
+daemon: dsld[1681]: bcmdsl_make_config: Selecting INTERNAL AFE for Single Line mode
+info	Aug 11 14:06:21	
+daemon: dsld[1681]: bcmdsl_make_config(line=0): Multi-PHY: Using SINGLE_LINE Phy FW
+info	Aug 11 14:06:21	
+daemon: dsld[1681]: Configuring modem line 0 with tuning_params
+info	Aug 11 14:06:21	
+daemon: wifimgrd[1775]: Wireless tx power percent set to 100,
+info	Aug 11 14:06:21	
+daemon: wifimgrd[1775]: Wireless interference sensitivity set to 4000, 128
+info	Aug 11 14:06:21	
+daemon: wifimgrd[1775]: Wireless interference mode set to 2
+err	Aug 11 14:06:21	
+daemon: wifimgrd[1775]: Wireless config: wifi_device_set_intfmitigation failed: Resource temporarily unavailable
+err	Aug 11 14:06:21	
+daemon: wifimgrd[1775]: wifi_device_set_intfmitigation, set interference mitigation mode 3, 3 failed, return is 211
+info	Aug 11 14:06:21	
+daemon: wifimgrd[1775]: Wireless 11h_enabled set to 0
+info	Aug 11 14:06:21	
+daemon: wifimgrd[1775]: Wireless DOT11d set to 1
+info	Aug 11 14:06:21	
+daemon: wifimgrd[1775]: Wireless ACL policy set to 0
+info	Aug 11 14:06:21	
+daemon: wifimgrd[1775]: Wireless device setup advanced
+info	Aug 11 14:06:21	
+daemon: wifimgrd[1775]: Wireless WVIOCSWMFSTATUS set to 1
+info	Aug 11 14:06:21	
+daemon: wifimgrd[1775]: Wireless current bitrate is: 144400 kbps
+info	Aug 11 14:06:21	
+daemon: wifimgrd[1775]: Wireless TX RATES set to 0
+info	Aug 11 14:06:20	
+daemon: wifimgrd[1775]: Wireless uapsd set to 32
+info	Aug 11 14:06:20	
+daemon: wifimgrd[1775]: Wireless WMM set to 32
+err	Aug 11 14:06:20	
+daemon: wifimgrd[1775]: wifi_device_set_wme, setting wmm/wme failed
+info	Aug 11 14:06:20	
+daemon: wifimgrd[1775]: Wireless MODE set to 32,amsdu set to 0, ampdu set to 1, RIFS set to 0, sgi set to 1, spatial streams set to 2, stbc set to 0 
+info	Aug 11 14:06:20	
+daemon: dsld[1681]: bcmdsl_init_drv(line=0) completed successfully
+err	Aug 11 14:06:20	
+daemon: dsld[1681]: bcmdsl_init bcmdsl_DoInitialize(line=0) success
+info	Aug 11 14:06:20	
+daemon: dsld[1681]: Using default G.994 chipset Vendor ID
+err	Aug 11 14:06:20	
+daemon: dsld[1681]: bcmdsl_set_oem_parameters(ADSL_OEM_EOC_VENDOR_ID) failed
+err	Aug 11 14:06:20	
+daemon: dsld[1681]: xdslCtl_SetOemParameter() failed
+err	Aug 11 14:06:20	
+daemon: dsld[1681]: set_atur_eoc_data(): Set System SW version failed
+err	Aug 11 14:06:20	
+daemon: dsld[1681]: xdslCtl_SetOemParameter() failed
+err	Aug 11 14:06:20	
+daemon: dsld[1681]: bcmdsl_get_pace_version error
+err	Aug 11 14:06:20	
+daemon: dsld[1681]: set_atur_eoc_data(): Set Serial Number failed
+err	Aug 11 14:06:20	
+daemon: dsld[1681]: xdslCtl_SetOemParameter() failed
+err	Aug 11 14:06:20	
+daemon: dsld[1681]: bcmdsl_make_config: Selecting INTERNAL AFE for Single Line mode
+info	Aug 11 14:06:20	
+daemon: dsld[1681]: bcmdsl_make_config(line=0): Multi-PHY: Using SINGLE_LINE Phy FW
+info	Aug 11 14:06:20	
+daemon: dsld[1681]: Configuring modem line 0 with tuning_params
+info	Aug 11 14:06:20	
+daemon: dsld[1681]: bcmdsl_train_hist_update_stats: reinit cause(Line=0): Loss of Power
+err	Aug 11 14:06:20	
+daemon: dsld[1681]: bcmdsl_get_mib() failed: rc: 9002, size: 31032, sizeof(adslMibInfo): 31032
+info	Aug 11 14:06:20	
+daemon: dsld[1681]: bcmdsl_restart: chip_id: 0x00063268, phy_type: 2, num_lines: 1, media: 1, force_phy_type: 0
+info	Aug 11 14:06:20	
+daemon: dsld[1681]: dsl_bg_add
+info	Aug 11 14:06:20	
+daemon: dsld[1681]: dsld_start_device
+info	Aug 11 14:06:20	
+daemon: wifimgrd[1775]: Wireless channel index set to 0(chan 0), sec=1, coexistence=0
+info	Aug 11 14:06:20	
+daemon: wifimgrd[1775]: Wireless DTIM set to 3
+info	Aug 11 14:06:20	
+daemon: wifimgrd[1775]: Wireless device setup the basics
+info	Aug 11 14:06:19	
+daemon: wifimgrd[1775]: Wireless set countryinfo to Q1/937
+info	Aug 11 14:06:19	
+daemon: wifimgrd[1775]: Wireless mbss set to 1
+info	Aug 11 14:06:19	
+daemon: wifimgrd[1775]: Wireless config: disable bss
+info	Aug 11 14:06:19	
+daemon: wifimgrd[1775]: wifi_dev_brcm_config: nvram preconfig complete
+info	Aug 11 14:06:17	
+daemon: dsld[1681]: Loss of Power detected by LM
+info	Aug 11 14:06:17	
+daemon: dsld[1681]: DSLD_CMD_SSEARCH: search is disabled
+info	Aug 11 14:06:17	
+daemon: lmd[1704]: dsl0: dsl_up: SMEDIA: bonded: 4, single_line:1
+info	Aug 11 14:06:17	
+daemon: lmd[1704]: dsl0: dsl_up: dsl_if->phy_type: 2
+info	Aug 11 14:06:17	
+daemon: lmd[1704]: dsl0: Final Phy type is 2
+info	Aug 11 14:06:17	
+daemon: dsld[1681]: DSLD_CMD_SPHYIMAGETYPE: DSL will operate in SINGLE_LINE mode at next start
+info	Aug 11 14:06:17	
+daemon: lmd[1704]: dsl0: Cached Phy type is SINGLE_LINE
+info	Aug 11 14:06:17	
+daemon: lmd[1704]: dsl0: dsl_up: Cached phy_type: 2
+info	Aug 11 14:06:17	
+daemon: lmd[1704]: dsl0: Initialized dsld messaging socket
+info	Aug 11 14:06:17	
+daemon: httpd[1698]: DNS server name: attlocal.net
+info	Aug 11 14:06:17	
+daemon: httpd[1698]: bind(fd=11) family 2, port 443 to 192.168.1.254 scope 0
+info	Aug 11 14:06:17	
+daemon: lmd[1704]: ipnet6: UP on br6 with 203.0.113.1/29
+info	Aug 11 14:06:17	
+daemon: httpd[1698]: DNS server name: attlocal.net
+info	Aug 11 14:06:17	
+daemon: httpd[1698]: bind(fd=10) family 2, port 80 to 192.168.1.254 scope 0
+info	Aug 11 14:06:16	
+daemon: wifimgrd[1775]: Wireless config: disable wireless service daemons
+err	Aug 11 14:06:16	
+daemon: wifimgrd[1775]: wifi_device_stop_services, killall -9 acsd 2>/dev/null failed
+err	Aug 11 14:06:15	
+daemon: wifimgrd[1775]: wifi_device_stop_services, killall -9 nas 2>/dev/null failed
+err	Aug 11 14:06:15	
+daemon: wifimgrd[1775]: wifi_device_stop_services, killall -15 wps_monitor 2>/dev/null failed
+err	Aug 11 14:06:15	
+daemon: wifimgrd[1775]: wifi_device_stop_services, killall -9 lld2d 2>/dev/null failed
+info	Aug 11 14:06:15	
+daemon: wifimgrd[1775]: Wireless config: disable phy
+info	Aug 11 14:06:14	
+daemon: wifimgrd[1775]: wifi_dev_brcm_config: Wireless config: deviceid=3
+info	Aug 11 14:06:14	
+daemon: wifimgrd[1775]: reconfiguring deviceid= 3 because 108 params changed
+err	Aug 11 14:06:14	
+daemon: mifd[1661]: mif_get_param 'InternetGatewayDevice.LANDevice.1.LANHPNAInterfaceConfig.2.PerformanceMonitoring.Nodes.Current.1.PacketsReceived' - No such file or directory
+err	Aug 11 14:06:14	
+daemon: mifd[1661]: mif_get_param 'InternetGatewayDevice.LANDevice.1.LANHPNAInterfaceConfig.2.PerformanceMonitoring.Nodes.Current.1.RxPacketsDropped' - No such file or directory
+err	Aug 11 14:06:14	
+daemon: hpnainfo[1696]: Managed Mode
+err	Aug 11 14:06:14	
+daemon: hpnainfo[1696]: Operation Mode
+info	Aug 11 14:06:14	
+daemon: hpnainfo[1696]: hpnainfo: Changed HPNA_VST_REG=0x4400
+info	Aug 11 14:06:14	
+daemon: hpnainfo[1696]: hpnainfo : enable_hpna : Enabled hpna device state 3 
+info	Aug 11 14:06:13	
+daemon: hpnainfo[1696]: Loadfw: hpnainfo Firmware /usr/sbin/cdk/CG3210H-194-C22-COAX.bin download ends.....
+info	Aug 11 14:06:08	
+daemon: hpnainfo[1696]: Loadfw: hpnainfo Firmware download begins.....
+info	Aug 11 14:05:57	
+daemon: hpnainfo[1696]: Loadfw: hpnainfo Firmware /usr/sbin/cdk/CG3210H-194-C22-COAX.bin download ends.....
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: Loadfw: hpnainfo Firmware download begins.....
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: HPNA LM CONFIG media = 1
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: HPNA LM CONFIG lan_ifname = br0
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: HPNA LM CONFIG numpkts = 5000
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: HPNA LM CONFIG framelen = 1482
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: HPNA LM CONFIG br_got_ip = 1
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: HPNA LM CONFIG if_added_to_br = 1
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: HPNA LM CONFIG state = 1
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: HPNA LM CONFIG is_master = 1
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: HPNA LM CONFIG target_per = -1063
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: HPNA LM CONFIG target_snr = 340
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: HPNA LM CONFIG sample_interval = 900
+info	Aug 11 14:05:50	
+daemon: hpnainfo[1696]: hpnainfo : enable_hpna : Enabling hpna device
+info	Aug 11 14:05:50	
+daemon: lmd[1704]:  tw_ulib_hpna_reset_hardware hpna hardware reset (ret=0)
+info	Aug 11 14:05:50	
+daemon: lmd[1704]: ipnet1: UP on br0 with 192.168.1.254/24
+info	Aug 11 14:05:49	
+daemon: wifimgrd[1775]: wifi_cm_qtn_setup: setup is successful
+info	Aug 11 14:05:45	
+user: root: /usr/bin/dpiinit.sh[1971]: DPI modules are up
+err	Aug 11 14:05:45	
+daemon: voiced[1880]: configuration update - Unknown error 202
+err	Aug 11 14:05:45	
+daemon: voiced[1880]: vd_pub_config_update error 
+info	Aug 11 14:05:45	
+daemon: wifimgrd[1775]: wifi_cm_qtn_setup: Starting to set up wireless configuration (deviceid is 9)
+info	Aug 11 14:05:45	
+user: root: /usr/bin/dpiinit.sh[1971]: load dpicore module
+info	Aug 11 14:05:44	
+user: root: /usr/bin/dpiinit.sh[1971]: loading /etc/rule.trf: loop number 1 successful
+err	Aug 11 14:05:44	
+daemon: wifimgrd[1775]: wifi_dev_brcm_validate_ap: tw_ulib_aes_decrypt_from_base64 failed: -1 
+	Date/Time	Event Description
+info	Aug 11 14:05:43	
+daemon: wifimgrd[1775]: wifi_dev_brcm_setup: Starting to set up wireless configuration: deviceid = 3
+info	Aug 11 14:05:43	
+daemon: wifimgrd[1775]: br0 up, wifimgrd starting
+info	Aug 11 14:05:40	
+daemon: lmd[1704]: PHY Config: Device 12 Port 3 eth3
+info	Aug 11 14:05:39	
+daemon: lmd[1704]: PHY Config: Device 8 Port 2 eth2
+info	Aug 11 14:05:38	
+daemon: lmd[1704]: PHY Config: Device 1 Port 1 eth1
+info	Aug 11 14:05:37	
+daemon: lmd[1704]: PHY Config: Device 0 Port 0 eth0
+info	Aug 11 14:05:37	
+daemon: lmd[1704]: wifi0: Initialized wifi lm to httpd messaging socket
+info	Aug 11 14:05:36	
+daemon: dhcpd[1884]: File resolve.c line 4043 rc 2
+info	Aug 11 14:05:36	
+daemon: lmd[1704]: cfgcheck: node 11 [iPhone] fwopen cleared
+info	Aug 11 14:05:33	
+daemon: httpd[1698]: DNS server name: localhost.localdomain
+info	Aug 11 14:05:33	
+daemon: httpd[1698]: bind(fd=9) family 2, port 80 to 127.0.0.1 scope 0
+info	Aug 11 14:05:32	
+daemon: crashlog[1657]: Updated debugfile FileAvailable to false
+info	Aug 11 14:05:32	
+daemon: crashlog[1657]: Updated crashfile FileAvailable to true
+warn	Aug 11 14:05:32	
+daemon: lmd[1704]: tw_ulib_device_config_wireless:  Bringing up ethblink_wifi
+warn	Aug 11 14:05:32	
+daemon: lmd[1704]: tw_ulib_device_config_wireless:  Bringing down ethblink_wifi
+info	Aug 11 14:05:31	
+daemon: dsld[1681]: DSLD_CMD_SNTFYPRMS: DSL Params updated
+err	Aug 11 14:05:31	
+daemon: lmd[1704]: tw_ulib_device_config_adsl: error loading dsld param struct from CM
+info	Aug 11 14:05:31	
+daemon: crashlog[1657]: Starting crashupload
+warn	Aug 11 14:05:31	
+daemon: lmd[1704]: tw_ulib_device_config_wireless:  Bringing up ethblink_wifi
+warn	Aug 11 14:05:30	
+daemon: lmd[1704]: tw_ulib_device_config_wireless:  Bringing down ethblink_wifi
+info	Aug 11 14:05:30	
+daemon: httpd[1698]: hurlmod using config /mnt/web/conf/hurl_conf.xml
+info	Aug 11 14:05:28	
+daemon: cwmd[1660]: cwmd process started.
+info	Aug 11 14:05:28	
+daemon: cwmd[1660]: cwmd_connreq_thread_init: STARTING cwmd_worker_crq_handler. (ppid 1547/pid 1660)
+info	Aug 11 14:05:28	
+daemon: cwmd[1660]: BDC init passed.
+info	Aug 11 14:05:28	
+daemon: cwmd[1660]: bdc is Initialized.
+info	Aug 11 14:05:28	
+daemon: httpd[1698]: init module (soap)
+info	Aug 11 14:05:28	
+daemon: httpd[1698]: init module (hurl)
+info	Aug 11 14:05:28	
+daemon: httpd[1698]: init module (rewrite)
+info	Aug 11 14:05:28	
+daemon: httpd[1698]: init module (xslt)
+info	Aug 11 14:05:28	
+daemon: httpd[1698]: init module (file)
+info	Aug 11 14:05:28	
+daemon: mbusd[1706]: process[1706] started
+info	Aug 11 14:05:28	
+daemon: cwmd[1660]: Initializing bdc.
+notice	Aug 11 14:05:28	
+daemon: cwmd[1660]: connreq: listening on :::3479 for requests.
+info	Aug 11 14:05:22	
+daemon: mifd[1661]: mif initialized
+info	Aug 11 14:05:22	
+daemon: lmd[1704]: process[1704] started
+info	Aug 11 14:05:22	
+daemon: httpd[1698]: process[1698] started
+info	Aug 11 14:05:21	
+daemon: mifd[1661]: mifd process[1661] started
+info	Aug 11 14:05:21	
+daemon: cwmd[1660]: pki initialized
+warn	Aug 11 14:05:21	
+daemon: bulkdatad[1653]: bulkdatad retrying mif_connect() in 1 second
+warn	Aug 11 14:05:20	
+daemon: bulkdatad[1653]: bulkdatad retrying mif_connect() in 1 second
+err	Aug 11 14:05:19	
+user: root: /usr/bin/dpiinit.sh[1971]: verify_dpi_sig_hash failed:...
+info	Aug 11 14:05:19	
+user: root: /usr/bin/dpiinit.sh[1971]: No /rwdata/dpi/dpi_sig.data
+warn	Aug 11 14:05:19	
+daemon: bulkdatad[1653]: bulkdatad retrying mif_connect() in 1 second
+info	Aug 11 14:05:18	
+daemon: nodesd[1725]: process[1725] started
+info	Aug 11 14:05:18	
+user: root: /usr/bin/dpiinit.sh[1971]: load tdts module
+info	Aug 11 14:05:18	
+user: root: /usr/bin/dpiinit.sh[1971]: Configure DPI Feature...
+warn	Aug 11 14:05:18	
+daemon: bulkdatad[1653]: bulkdatad retrying mif_connect() in 1 second
+err	Aug 11 14:05:18	
+daemon: pwrd[1738]: dsl_run_cmd(58, 0, 0x00000000) failed
+err	Aug 11 14:05:18	
+daemon: pwrd[1738]: dsl_run_cmd_core: cmd: 58, dsld_run_cmd_1 failed: 202, Unknown error 202
+err	Aug 11 14:05:18	
+daemon: dsld[1681]: xdslCtl_ConnectionStop(line=1) failed
+err	Aug 11 14:05:18	
+daemon: dsld[1681]: xdslCtl_ConnectionStop(line=0) failed
+info	Aug 11 14:05:18	
+daemon: dsld[1681]: bcmdsl_reconnect
+info	Aug 11 14:05:18	
+daemon: dsld[1681]: DSL_BATTERY_NOMINAL: Modem is idle. Restarting now
+info	Aug 11 14:05:18	
+daemon: dsld[1681]: DSL_BATTERY_NOMINAL received
+info	Aug 11 14:05:17	
+daemon: ustatsd[1759]: cm init complete
+info	Aug 11 14:05:17	
+daemon: ustatsd[1759]: process[1759] started
+info	Aug 11 14:05:17	
+daemon: pwrd[1738]: No replace condition is present
+info	Aug 11 14:05:17	
+daemon: pwrd[1738]: No error condition is present
+info	Aug 11 14:05:17	
+daemon: pwrd[1738]: Normal AC power, battery is removed
+err	Aug 11 14:05:17	
+daemon: pwrd[1738]: dsl_run_cmd(58, 0, 0x00000000) failed
+err	Aug 11 14:05:17	
+daemon: pwrd[1738]: dsl_run_cmd_core: cmd: 58, dsld_run_cmd_1 failed: 202, Unknown error 202
+err	Aug 11 14:05:17	
+daemon: dsld[1681]: xdslCtl_ConnectionStop(line=1) failed
+err	Aug 11 14:05:17	
+daemon: dsld[1681]: xdslCtl_ConnectionStop(line=0) failed
+info	Aug 11 14:05:17	
+daemon: dsld[1681]: bcmdsl_reconnect
+info	Aug 11 14:05:17	
+daemon: dsld[1681]: DSL_BATTERY_NOMINAL: Modem is idle. Restarting now
+info	Aug 11 14:05:17	
+daemon: dsld[1681]: DSL_BATTERY_NOMINAL received
+info	Aug 11 14:05:16	
+daemon: dsld[1681]: registered dsld pid:1681 to receive DSL driver netlink messages
+info	Aug 11 14:05:16	
+daemon: dsld[1681]: fd_dsl_mon: 6
+info	Aug 11 14:05:16	
+daemon: dsld[1681]: dsld:Daemon started
+info	Aug 11 14:05:16	
+daemon: dsld[1681]: dsl_bg_init: 2 tasks in list
+info	Aug 11 14:05:16	
+daemon: dsld[1681]: dsl_bg_add
+info	Aug 11 14:05:16	
+daemon: dsld[1681]: dsl_bg_add
+info	Aug 11 14:05:16	
+daemon: dsld[1681]: dsl_get_xtm_cmd_fmt: bsp_version: (4.16L.05) , xtm_cmd_fmt: 2
+info	Aug 11 14:05:16	
+daemon: dsld[1681]: dsld_init_device: SOC chip_id: 0x00063268, num_lines: 2
+info	Aug 11 14:05:14	
+daemon: dsld[1681]: process[1681] started
+info	Aug 11 14:05:14	
+daemon: pwrd[1738]: Normal AC power, battery has no errors
+info	Aug 11 14:05:14	
+daemon: pwrd[1738]: process[1738] started
+notice	Aug 11 14:05:13	
+daemon: ulogd[1766]: registering plugin `PACE'
+notice	Aug 11 14:05:13	
+daemon: ulogd[1766]: registering plugin `PRINTPKT'
+notice	Aug 11 14:05:13	
+daemon: ulogd[1766]: registering plugin `IP2STR'
+notice	Aug 11 14:05:12	
+daemon: ulogd[1766]: registering plugin `IFINDEX'
+info	Aug 11 14:05:12	
+daemon: wifimgrd[1775]: waiting for br0 to come up ...
+info	Aug 11 14:05:12	
+daemon: wifimgrd[1775]: connected to cm
+notice	Aug 11 14:05:12	
+daemon: ulogd[1766]: registering plugin `BASE'
+info	Aug 11 14:05:12	
+daemon: dhcpd[1884]: File resolve.c line 4043 rc 2
+info	Aug 11 14:05:11	
+daemon: dhcp6d[1666]: process[1666] started
+err	Aug 11 14:05:10	
+daemon: vzonead[1767]: vzonead: connect to mcpd failed: No such file or directory
+err	Aug 11 14:05:10	
+daemon: vzonead[1767]: vzonead_config_update 879 connect fails rc=2
+info	Aug 11 14:05:10	
+daemon: dhcpd[1670]: process[1670] started
+notice	Aug 11 14:05:09	
+daemon: ulogd[1766]: registering plugin `NFLOG'
+info	Aug 11 14:05:09	
+daemon: dnsd[1676]: dnsd config already initialized
+info	Aug 11 14:05:09	
+daemon: dnsd[1676]: dnsd_forwardmax - 256
+info	Aug 11 14:05:09	
+daemon: dnsd[1676]: process[1676] started
+info	Aug 11 14:05:08	
+daemon: hpnainfo[1696]: hpnainfo hpnainfo_read_config:
+info	Aug 11 14:05:08	
+daemon: hpnainfo[1696]: process[1696] started
+info	Aug 11 14:05:08	
+daemon: elogd[1686]: process[1686] started
+info	Aug 11 14:05:06	
+daemon: wifievtd[1772]: process wifievtd[1772] started
+info	Aug 11 14:05:06	
+syslog: syslogd started: BusyBox v1.21.0
+info	Aug 11 14:05:06	
+syslog: syslogd exiting
+err	Aug 11 14:05:06	
+daemon: timemgrd[1754]: libelog failed in elog_request_init: No such file or directory
+info	Aug 11 14:05:06	
+daemon: timemgrd[1754]: process[1754] started
+info	Aug 11 14:05:06	
+daemon: syslogmgrd[1752]: process[1752] started
+info	Aug 11 14:05:05	
+daemon: radvdmgr[1744]: process[1744] started
+info	Aug 11 14:05:05	
+user: syslog: notifyd: process[1727] started
+info	Aug 11 14:05:04	
+daemon: mcpmgrd[1716]: process[1716] started
+info	Aug 11 14:05:03	
+daemon: dlnamgr[1674]: process[1674] started
+info	Aug 11 14:05:03	
+daemon: serviceinit: wproxy disabled, skipping
+info	Aug 11 14:05:03	
+daemon: serviceinit: smbd disabled, skipping
+info	Aug 11 14:05:03	
+daemon: serviceinit: nmbd disabled, skipping
+info	Aug 11 14:05:03	
+daemon: serviceinit: miniupnp disabled, skipping
+info	Aug 11 14:05:03	
+daemon: serviceinit: minidlna disabled, skipping
+info	Aug 11 14:05:02	
+daemon: serviceinit: fwlld disabled, skipping
+info	Aug 11 14:05:02	
+daemon: serviceinit: dropbear disabled, skipping
+info	Aug 11 14:05:02	
+daemon: serviceinit: Done with packages
+info	Aug 11 14:05:02	
+daemon: pkgd[1595]: pkgman_extract_pkg note: cms-certs/att_unified_cms-certs has no uninstall script
+info	Aug 11 14:05:02	
+daemon: pkgd[1595]: pkgman_extract_pkg extracted cms-certs/att_unified_cms-certs
+info	Aug 11 14:05:02	
+daemon: pkgd[1595]: pkgman_extract_pkg extracting package /rwdata/pkg/att_unified_cms-certs.pkgstream
+info	Aug 11 14:05:02	
+daemon: pkgd[1595]: pkgman_extract_pkg note: eapol-certs/att_unified_eapol-certs has no uninstall script
+info	Aug 11 14:05:02	
+daemon: pkgd[1595]: pkgman_extract_pkg extracted eapol-certs/att_unified_eapol-certs
+info	Aug 11 14:05:02	
+daemon: pkgd[1595]: pkgman_extract_pkg extracting package /rwdata/pkg/att_unified_eapol-certs.pkgstream
+info	Aug 11 14:05:02	
+daemon: pkgd[1595]: pkgman_extract_pkg note: config/att_unified_config has no uninstall script
+info	Aug 11 14:05:02	
+daemon: pkgd[1595]: pkgman_extract_pkg extracted config/att_unified_config
+info	Aug 11 14:04:58	
+daemon: pkgd[1595]: pkgman_extract_pkg extracting package /rwdata/pkg/att_unified_config.pkgstream
+info	Aug 11 14:04:56	
+daemon: pkgd[1585]: pki initialized
+info	Aug 11 14:04:56	
+daemon: pkgd[1585]: Starting pkgd: recovery-mode:off daemonize:no
+info	Aug 11 14:04:54	
+daemon: serviceinit: Processing packages...
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: system database initialized
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: bulkload db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: parentalcontrol_profile_pub db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: parentalcontrol_profile db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_parentalcontrol_profile_db_setup:454: (ppid 1499/pid 1562): parental control profiles already set count = 50
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: new_nodes db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: fwll db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: parentalcontrol db setup success
+err	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_parentalcontrol_db_setup:338: (ppid 1499/pid 1562): cm_tran_alloc failed - Numerical result out of range
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: webs_redirect db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: crash db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: speedservice db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: dlna db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: pwrmgrd db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: igmp db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: fw6 db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: syslog db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: time db setup success
+info	Aug 11 14:04:54	
+daemon: rgwdbsetup[1562]: System clock initialized to Tue Aug 11 14:04:54 2020
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: bdc db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: bind db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: rgc db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: hotspot db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: ssdp db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: fwmon db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: webs db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: cs db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: iac db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: cms db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: nodesd db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: node db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: revnat db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: firewall db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: fw db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: pkg db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: smod db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: voice db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: bba db setup success
+info	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: librgw_db_setup: device db setup success
+err	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: tw_ulib_hpna_send_ctl_cmd Saving Configuration
+err	Dec 31 16:00:54	
+daemon: rgwdbsetup[1562]: tw_ulib_hpna_send_ctl_cmd Failed to connect to server
+info	Dec 31 16:00:53	
+daemon: rgwdbsetup[1562]: wifi_cm_qtn_setup: setup is successful
+info	Dec 31 16:00:53	
+daemon: rgwdbsetup[1562]: wifi_cm_qtn_setup: Starting to set up wireless configuration (deviceid is 9)
+err	Dec 31 16:00:53	
+daemon: rgwdbsetup[1562]: dsl_get_capabilities error. Continuing with defaults
+err	Dec 31 16:00:53	
+daemon: rgwdbsetup[1562]: dsl_get_capabilities: dsl_request_init failed: No such file or directory
+info	Dec 31 16:00:53	
+daemon: rgwdbsetup[1562]: tw_ulib_device_setup_dsl
+info	Dec 31 16:00:53	
+daemon: rgwdbsetup[1562]: wifi_dev_brcm_setup: Starting to set up wireless configuration: deviceid = 3
+info	Dec 31 16:00:53	
+daemon: rgwdbsetup[1562]: librgw_db_setup: sec db setup success
+info	Dec 31 16:00:53	
+daemon: rgwdbsetup[1562]: librgw_db_setup: sys db setup success
+info	Dec 31 16:00:53	
+daemon: rgwdbsetup[1562]: Serialnumber: 16171N078803
+info	Dec 31 16:00:53	
+daemon: rgwdbsetup[1562]: PC Assembly: 260-2173300
+info	Dec 31 16:00:53	
+daemon: rgwdbsetup[1562]: Product class: homeportal
+info	Dec 31 16:00:53	
+daemon: rgwdbsetup[1562]: Product name: 5268AC
+info	Dec 31 16:00:53	
+daemon: cmd[1561]: cmdb_spool thread created with stack size 30000
+info	Dec 31 16:00:44	
+daemon: cmd[1561]: schema 'cmlegacy' initialization
+info	Dec 31 16:00:44	
+daemon: cmd[1561]: schema 'cmtest' initialization
+info	Dec 31 16:00:44	
+daemon: cmd[1561]: process[1561] started
+info	Dec 31 16:00:44	
+user: syslog: created tmpdir '/tmp/cm'
+info	Dec 31 16:00:41	
+syslog: syslogd started: BusyBox v1.21.0
+info	Aug 11 13:46:53	
+daemon: rulemgrd[6014]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 13:46:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 13:46:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 13:38:38	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 13:37:57	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 13:32:51	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 13:31:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 13:31:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 13:31:33	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 13:21:37	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 13:18:47	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 13:16:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 13:16:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 13:08:37	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 13:02:02	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 13:01:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 13:01:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 12:52:13	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 12:46:45	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 12:46:43	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 12:42:23	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 12:38:35	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 12:34:18	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 12:32:32	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 12:31:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 12:31:43	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 12:22:42	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 12:16:45	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 12:16:43	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 12:15:22	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 12:08:39	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 12:08:33	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 12:01:54	
+daemon: rulemgrd[6014]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 12:01:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 12:01:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 11:55:43	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 11:46:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 11:46:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 11:42:35	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 11:38:31	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 11:35:59	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 11:31:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 11:31:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+info	Aug 11 11:19:44	
+daemon: rulemgrd[6014]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+err	Aug 11 11:16:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 11:16:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 11:12:27	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 11:02:31	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 11:01:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 11:01:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 11:00:25	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 10:56:23	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 10:47:25	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 10:46:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 10:46:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 10:42:45	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+info	Aug 11 10:41:13	
+daemon: rulemgrd[6014]: update_handler: More than 3 consecutive iterations: flag = 0 iterations = 3 err = 0
+warn	Aug 11 10:40:42	
+daemon: dhcp6d[1666]: dhcp6d: can't find client fe80::11dc:4ea:b70c:f277 in neighbor table
+err	Aug 11 10:38:37	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 10:38:28	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 10:33:48	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 10:31:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 10:31:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 10:31:28	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 10:22:18	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 10:16:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 10:16:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 10:12:39	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 10:07:23	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 10:02:37	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 10:01:43	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 10:01:41	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+warn	Aug 11 09:58:24	
+daemon: dnsd[1676]: oversized forward udp message (sz=864)
+err	Aug 11 09:56:45	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 09:51:31	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 09:49:59	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 09:46:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 09:46:40	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 09:45:47	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 09:42:56	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 09:38:24	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 09:35:24	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 09:31:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 09:31:39	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 09:23:28	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 09:16:40	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 09:16:38	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 09:06:12	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 09:04:27	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 09:01:39	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 09:01:37	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 08:58:17	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 08:54:36	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 08:51:13	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 08:46:38	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 08:46:36	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 08:41:22	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 08:31:37	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 08:31:35	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 08:21:36	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 08:16:36	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 08:16:34	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 08:11:47	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 08:05:12	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 08:01:35	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 08:01:33	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 07:58:52	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:52:08	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:46:51	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:46:34	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 07:46:32	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 07:42:02	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:40:19	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:38:36	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:38:17	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:31:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 07:31:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 07:31:27	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:29:49	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:21:37	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:16:46	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 07:16:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 07:15:25	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:08:14	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:01:58	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 07:01:46	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 07:01:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 06:52:07	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 06:46:46	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 06:46:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 06:42:17	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 06:32:28	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 06:32:04	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 06:31:49	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 06:31:43	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 06:27:15	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 06:22:37	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 06:21:15	
+daemon: wifimgrd[1775]: wifi_device_get_assoclist: failed to get assoclist for dev wifi0, err 148 
+err	Aug 11 06:16:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 06:16:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 06:13:54	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 06:12:48	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 06:09:24	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 06:08:11	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 06:07:00	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 06:02:47	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 06:01:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 06:01:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+warn	Aug 11 05:53:49	
+daemon: dnsd[1676]: oversized forward udp message (sz=864)
+err	Aug 11 05:53:07	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 05:46:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 05:46:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 05:43:18	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 05:33:27	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 05:31:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 05:31:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 05:23:38	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 05:16:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 05:16:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 05:14:44	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 05:08:07	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 05:03:57	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 05:01:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 05:01:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 04:54:07	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 04:46:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 04:46:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 04:38:06	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 04:31:54	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 04:31:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 04:31:09	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 04:24:32	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 04:16:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 04:16:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 04:14:42	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 04:04:53	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 04:02:14	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 04:01:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 04:01:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 03:46:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 03:46:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 03:45:13	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 03:40:06	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 03:38:02	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 03:31:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 03:31:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 03:25:32	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 03:20:04	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 11 03:16:52	
+daemon: nodesd[1725]:  dead: 33, probation: 0, cm: 58
+warn	Aug 11 03:16:52	
+daemon: nodesd[1725]:  nodes: 58, active: 10, sleepy/unknown: 15,
+warn	Aug 11 03:16:52	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 11 03:16:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 03:16:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 03:15:42	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 03:08:00	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 03:05:52	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 03:01:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 03:01:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 03:00:39	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 02:56:02	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 11 02:52:25	
+daemon: nodesd[1725]:  dead: 24, probation: 0, cm: 58
+warn	Aug 11 02:52:25	
+daemon: nodesd[1725]:  nodes: 58, active: 20, sleepy/unknown: 14,
+warn	Aug 11 02:52:25	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 11 02:46:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 02:46:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 02:46:12	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 02:37:59	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 02:36:22	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 02:31:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 02:31:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 02:26:32	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 11 02:22:31	
+daemon: nodesd[1725]:  dead: 36, probation: 0, cm: 58
+warn	Aug 11 02:22:31	
+daemon: nodesd[1725]:  nodes: 58, active: 17, sleepy/unknown: 5,
+warn	Aug 11 02:22:31	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 11 02:16:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 02:16:42	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 02:16:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+warn	Aug 11 02:10:13	
+daemon: nodesd[1725]:  dead: 30, probation: 0, cm: 58
+warn	Aug 11 02:10:13	
+daemon: nodesd[1725]:  nodes: 58, active: 12, sleepy/unknown: 16,
+warn	Aug 11 02:10:13	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 11 02:05:57	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 02:01:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 02:01:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 02:00:28	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 01:56:40	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 01:55:32	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 11 01:52:41	
+daemon: nodesd[1725]:  dead: 35, probation: 0, cm: 58
+warn	Aug 11 01:52:41	
+daemon: nodesd[1725]:  nodes: 58, active: 6, sleepy/unknown: 17,
+warn	Aug 11 01:52:41	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 11 01:46:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 01:46:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 01:45:42	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 01:43:18	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+warn	Aug 11 01:40:40	
+daemon: nodesd[1725]:  dead: 0, probation: 0, cm: 58
+warn	Aug 11 01:40:40	
+daemon: nodesd[1725]:  nodes: 58, active: 15, sleepy/unknown: 43,
+warn	Aug 11 01:40:40	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 11 01:37:55	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 01:32:25	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 01:31:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 01:31:40	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+warn	Aug 11 01:27:15	
+daemon: nodesd[1725]:  dead: 198, probation: 0, cm: 256
+warn	Aug 11 01:27:15	
+daemon: nodesd[1725]:  nodes: 257, active: 44, sleepy/unknown: 15,
+warn	Aug 11 01:27:15	
+daemon: nodesd[1725]: in flood defensive mode
+err	Aug 11 01:26:02	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 01:21:21	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 01:16:41	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 01:16:39	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 01:12:22	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 01:01:43	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 01:01:38	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 01:00:35	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 00:53:57	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 00:46:39	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 00:46:37	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 00:44:07	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 00:41:33	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 00:40:18	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 00:37:52	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 00:35:58	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 00:34:16	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 00:31:38	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 00:31:36	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 00:24:19	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 00:16:37	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 00:16:35	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 00:14:31	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 00:07:50	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 00:04:40	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 11 00:01:36	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 11 00:01:34	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 23:54:50	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 23:46:35	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 23:46:33	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 23:37:46	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 23:34:19	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 23:31:34	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 23:31:32	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 23:16:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 23:16:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 23:14:46	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 23:07:45	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 23:05:51	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 23:01:47	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 23:01:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 22:56:01	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 22:46:47	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 22:46:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 22:37:43	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 22:36:21	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 22:31:46	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 22:31:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 22:27:43	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 22:26:31	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 22:16:45	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 22:16:43	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 22:16:41	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 22:06:51	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 22:05:00	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 22:01:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 22:01:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 21:58:47	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 21:55:11	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 21:46:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 21:46:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 21:45:20	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 21:37:40	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 21:34:26	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 21:31:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 21:31:42	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 21:16:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 21:16:43	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 21:14:45	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out
+err	Aug 10 21:01:44	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 21:01:43	
+daemon: mifd[1659]: wifi_dev_qtn_get_wpa_stats, qcsapi_wifi_get_psk_auth_failures failed,                                 return is -14
+err	Aug 10 20:53:56	
+daemon: cmd[1562]: _cmdb_notify_cb RPC: Timed out

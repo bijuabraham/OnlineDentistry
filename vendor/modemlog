@@ -1,0 +1,202 @@
+Event Log Lists
+Type	Date/Time	Event Description
+INF	2020-08-13T13:44:41-07:00		
+Previous log entry repeated 4 times
+INF	2020-08-13T13:44:26-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:43:00-07:00		
+Previous log entry repeated 4 times
+INF	2020-08-13T13:42:45-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:41:09-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T13:39:47-07:00	sys	
+Node 192.168.1.102 is down
+INF	2020-08-13T13:38:36-07:00		
+Previous log entry repeated 11 times
+INF	2020-08-13T13:37:38-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:37:04-07:00	sys	
+Successfully logged into a password protected page
+INF	2020-08-13T13:34:37-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:32:09-07:00	sys	
+Node 192.168.1.78 is down
+INF	2020-08-13T13:31:14-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T13:31:05-07:00	sys	
+Node 192.168.1.125 is up
+INF	2020-08-13T13:31:01-07:00		
+Previous log entry repeated 2 times
+INF	2020-08-13T13:30:57-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:28:48-07:00	sys	
+Node 192.168.1.82 is down
+INF	2020-08-13T13:28:45-07:00	sys	
+Node 192.168.1.78 is down
+INF	2020-08-13T13:27:41-07:00		
+Previous log entry repeated 2 times
+INF	2020-08-13T13:27:36-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:26:21-07:00	sys	
+Node 192.168.1.96 is up
+INF	2020-08-13T13:24:12-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:21:43-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:21:24-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T13:18:45-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:16:34-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:15:34-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:11:33-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T13:05:53-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:04:16-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:03:16-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T13:01:42-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T13:00:46-07:00	sys	
+Node 192.168.1.116 is up
+INF	2020-08-13T12:56:53-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T12:55:26-07:00	sys	
+Node 192.168.1.78 is down
+INF	2020-08-13T12:52:44-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T12:51:23-07:00	sys	
+Node 192.168.1.67 is up
+INF	2020-08-13T12:48:43-07:00	sys	
+Node 192.168.1.67 is up
+INF	2020-08-13T12:47:23-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T12:47:02-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T12:46:03-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T12:44:17-07:00	sys	
+Node 192.168.1.116 is down
+INF	2020-08-13T12:43:34-07:00		
+Previous log entry repeated 1 times
+INF	2020-08-13T12:43:22-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T12:42:07-07:00	sys	
+Node 192.168.1.78 is down
+INF	2020-08-13T12:39:59-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T12:36:14-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T12:30:28-07:00	sys	
+Node 192.168.1.78 is down
+INF	2020-08-13T12:28:49-07:00	sys	
+Node 192.168.1.71 is up
+INF	2020-08-13T12:26:23-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T12:22:09-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T12:19:36-07:00	sys	
+Node 192.168.1.96 is up
+INF	2020-08-13T12:12:21-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T12:04:48-07:00	sys	
+Node 192.168.1.78 is up
+INF	2020-08-13T12:03:22-07:00	sys	
+Node 192.168.1.129 is up
+INF	2020-08-13T12:01:59-07:00	sys	
+Node 192.168.1.94 is up
+INF	2020-08-11T14:07:57-07:00	hurl	
+host=pac.stanford.edu uri=/suproxy.pac unavailable, WAN down
+INF	2020-08-11T14:07:45-07:00	hurl	
+err=4 name=NO_DHCP_SERVICE clear
+INF	2020-08-11T14:07:40-07:00	hurl	
+err=4 name=NO_DHCP_SERVICE redirect
+INF	2020-08-11T14:07:40-07:00	hurl	
+err=4 name=NO_DHCP_SERVICE redirect
+INF	2020-08-11T14:07:40-07:00	hurl	
+host=pac.stanford.edu uri=/suproxy.pac unavailable, WAN down
+INF	2020-08-11T14:07:40-07:00	hurl	
+err=4 name=NO_DHCP_SERVICE redirect
+INF	2020-08-11T14:07:40-07:00	hurl	
+host=pac.stanford.edu uri=/suproxy.pac unavailable, WAN down
+INF	2020-08-11T14:07:40-07:00	hurl	
+host=pac.stanford.edu uri=/suproxy.pac unavailable, WAN down
+INF	2020-08-11T14:07:36-07:00	hurl	
+err=4 name=NO_DHCP_SERVICE detect
+INF	2020-08-11T14:07:36-07:00	hurl	
+err=0 name=PHY_NONE clear
+INF	2020-08-11T14:07:36-07:00	hurl	
+err=15 name=EAPOL_FAILED clear
+INF	2020-08-11T13:55:32-07:00		
+Previous log entry repeated 2 times
+INF	2019-09-11T06:46:43-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-09-05T06:31:56-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-09-04T06:32:03-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-09-03T06:32:03-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-09-02T06:32:02-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-09-01T06:32:02-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-31T06:32:02-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-30T06:32:02-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-29T06:32:04-07:00		
+Previous log entry repeated 1 times
+INF	2019-08-29T06:31:57-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-28T06:31:57-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-27T06:32:03-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-26T06:32:01-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-25T06:31:52-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-24T06:47:31-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-23T06:32:01-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-22T06:32:03-07:00		
+Previous log entry repeated 1 times
+INF	2019-08-22T06:31:56-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-21T06:31:46-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-20T06:47:03-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-19T06:32:02-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-18T06:32:02-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-17T06:32:04-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-16T06:32:00-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-15T06:32:02-07:00		
+Previous log entry repeated 1 times
+INF	2019-08-15T06:31:55-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-14T06:32:02-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-13T06:32:02-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-12T06:32:03-07:00	acs	
+CWMD fault: 9005 get params
+INF	2019-08-11T06:32:04-07:00	acs	
+CWMD fault: 9005 get params
+INF	P0000-00-00T00:03:06	hurl	
+err=0 name=PHY_NONE redirect
+INF	P0000-00-00T00:03:06	hurl	
+host=pac.stanford.edu uri=/suproxy.pac unavailable, WAN down
+INF	P0000-00-00T00:03:06	hurl	
+err=0 name=PHY_NONE redirect
