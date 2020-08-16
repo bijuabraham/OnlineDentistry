@@ -40,7 +40,7 @@ $( document ).ready(function() {
         }
     });
 });
-function move() {
+function move() {   
     if (i == 0) {
       i = 1;
       var elem = document.getElementById("myBar");
@@ -60,6 +60,7 @@ function move() {
 
   function clearprevious() {
     i = 0;
+    move();
     successcount=0;
     $("#successmessage").html("");
   }

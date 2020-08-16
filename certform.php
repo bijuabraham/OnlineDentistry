@@ -37,12 +37,23 @@ foreach(glob("certs/*") as $f) {
   height: 30px;
   background-color: #4CAF50;
 }
+.resultmessage {
+  width: 50%;
+  float: right;
+  height: 500px; 
+  background-color: lightgreen;
+  overflow-x: hidden; 
+  overflow-y: auto; 
+}
 </style>
-
+<div class="resultmessage">
+  <p id = "successmessage"></p>
+  <p id = "errormessage"></p>
+</div>
 <span class="span_edit_right">
     <form name="form2" method="post" action="#" style="padding:5px;">
     <label for="Message">Email Message:</label><BR>
-    <textarea id="message" name="message" rows="10" cols="50">
+    <textarea id="message" name="message" rows="10" cols="60">
 Greeting Dr. {firstname},<BR>
 <BR>
 Thank You for participating in the Webinar {title} conducted by {by} on {on}. Attached please find the certificate of Participation. <BR>
@@ -77,12 +88,10 @@ Email: {sendmail}<BR>
     <input type="checkbox" id="external" name="external" value="external" unchecked><label for="external"> SEND EXTERNAL EMAILS</label><BR>
     <input type="checkbox" id="attach" name="attach" value="attach" unchecked><label for="attach"> ATTACH CERTIFICATE</label><BR>
     <input type="submit" id="submit" name="submit" value="Send" onclick="move()">
+    <input type="reset" id="reset" name="reset" value="Clear" onclick="clearprevious()">
     </form>
 </span>
-<p>Results:</p>
 <div id="myProgress">
   <div id="myBar"></div>
 </div>
-<p id = "successmessage"></p>
-<p id = "errormessage"></p>
 <?php od_footer(); ?>

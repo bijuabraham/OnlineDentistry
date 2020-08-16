@@ -51,7 +51,7 @@
         } 
         else
         { 
-            echo($studentid . ":" . $certname . "-FAIL<BR>"); 
+            echo($studentid . ":" . $certname . "<font color=red>-FAIL<BR></font>"); 
         }
         ob_flush();
     }
