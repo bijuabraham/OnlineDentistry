@@ -45,7 +45,7 @@ foreach(glob("certs/*") as $f) {
     <textarea id="message" name="message" rows="10" cols="50">
 Greeting Doctor,<BR>
 <BR>
-Thank You for Participating in the Webinar {Topic}. Attached please find the certificate of Participation. <BR>
+Thank You for participating in the Webinar {title} conducted by {by} on {on}. Attached please find the certificate of Participation. <BR>
 <BR>
 Disclaimer - This is an E-Certificate. The firm Online Dentistry is Not responsible for any manipulations by the candidate. Online Dentistry has a backup record of all the certificates issued.
 <BR>
@@ -53,11 +53,11 @@ Disclaimer - This is an E-Certificate. The firm Online Dentistry is Not responsi
 <I>Online Dentistry</I><BR>
   <BR>
     </textarea><BR><BR>
-    <label for="title">Course Title:</label><br>
+    <label for="title">Course Title: {title}</label><br>
     <input type="text" name="title" id="title" value="Orthodonics Course"><br><br>
-    <label for="by">Instructor name:</label><br>
-    <input type="text" name="by" id="by" value="By Dr. Binu Abraham"><br><br>
-    <label for="on">Course date:</label><br>
+    <label for="by">Instructor name: {by}</label><br>
+    <input type="text" name="by" id="by" value="Dr. Binu Abraham"><br><br>
+    <label for="on">Course date: {on}</label><br>
     <input type="text" name="on" id="on" value="August 8, 2020"><br><br>
     <label for="template">Certificate Template:</label><br>
     <select id="template">

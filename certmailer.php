@@ -18,6 +18,8 @@
     $is_send = $_POST['Send'] ?? "";
     db_connect("CCDB");
     if ($message != "") {
+        $message = process_message ($message,$title,$by,$on);
+        echo $message;
         $emailquery = "select studentid as studentid, sendemail as sendemail, firstname as FirstName, lastname as LastName, certname as certname from mailinglist where ID = $counter_id";
         //print $sqlquery2;
         $resultemails = db_fetch_all("CCDB", $emailquery);
@@ -54,5 +56,12 @@
     db_close("CCDB");
     ob_flush();
     ob_end_flush();
+
+    function process_message ($message,$title,$by,$on) {
+        $search  = array('{title}', '{by}', '{on}');
+        $replace = array($title, $by, $on);
+        $newstr = str_replace($search, $replace, $message);
+        return $newstr;
+    }
 ?>
 
