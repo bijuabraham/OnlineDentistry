@@ -16,14 +16,16 @@ $( document ).ready(function() {
         var template = $('#template').val();
         var message = $('#message').val();
         var external = $('#external').is(':checked');
-        console.log(external);
+        var attach = $('#attach').is(':checked');
+        //console.log(external);
+        //console.log(attach);
         if (message != ""){
           for (var counter = startcert; counter <= endcert; counter++) { 
             $.ajax({
               url: 'certmailer.php',
               // async: false,
               type: 'POST',
-              data: { "counter_id" : counter, "message" : message, "title" : title, "on" : on, "by" : by, "template" : template, "external" : external,  },
+              data: { "counter_id" : counter, "message" : message, "title" : title, "on" : on, "by" : by, "template" : template, "external" : external, "attach" : attach, },
               success: function (message)
               {
                   successcount++;

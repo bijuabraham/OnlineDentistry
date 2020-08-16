@@ -11,6 +11,7 @@
     $template = $_POST['template'] ?? "";
     $counter_id = $_POST["counter_id"] ?? "0";
     $external = $_POST['external'] ?? FALSE;
+    $attach = $_POST['attach'] ?? FALSE;
     $user = $_SESSION['user'];
     $server = $_SERVER['HTTP_HOST'];
     $host = preg_replace('/www./','',$server);
@@ -28,9 +29,17 @@
         $studentid=db_result($resultemails,0,"studentid");
         #function sendPHPMailer($toaddress, $toname, $subject, $attach, $message) {
         $sentMailResult = FALSE;
-        #echo "<p>Params: $i : $studentid : $certname : $title : $by : $on : $external : $template </p>";
-        if(generateCertificate ($studentid, $certname, $title, $by, $on, $template)) {
-            $sentMailResult = sendPHPMailer($studentid, $recipient, $certname, $subject, 1, $message, $external);
+        $certgenerateresult = FALSE;
+        #echo "<p>Params: $i : $studentid : $certname : $title : $by : $on : $external : $attach : $template </p>";
+        if ($attach == "true") {
+            #echo "Enter attach";
+            $certgenerateresult = generateCertificate ($studentid, $certname, $title, $by, $on, $template);
+            if ($certgenerateresult) {
+                $sentMailResult = sendPHPMailer($studentid, $recipient, $certname, $subject, 1, $message, $external);
+            }
+        } else {
+            #echo "Enter mail only";
+            $sentMailResult = sendPHPMailer($studentid, $recipient, $certname, $subject, 0, $message, $external);
         }
         if($sentMailResult)  
         { 

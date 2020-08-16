@@ -29,13 +29,14 @@ function sendPHPMailer($studentid, $toaddress, $toname, $subject, $attach, $mess
             $mail->addBCC('certificates@keralaonlineedu.com');               // Name is optional
         } else {
             #$mail->addAddress('certificates@keralaonlineedu.com', 'Certificate');     // Add a recipient
-            $mail->addAddress('joethesocialdentist@gmail.com'); 
+            $mail->addAddress('biju.abraham@gmail.com'); 
         }
         #$mail->addCC('admin@keralaonlineedu.com');               // Name is optional
         $mail->addReplyTo('no-reply@keralaonlineedu.com', 'Do Not Reply');
         #$mail->addCC('cc@example.com');
         #$mail->addBCC('bcc@example.com');
         // Attachments
+        #echo $attach;
         if ($attach) {
             $mail->addAttachment("certs/" . $studentid . "_certificate.pdf");         // Add attachments
         }

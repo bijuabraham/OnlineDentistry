@@ -14,6 +14,7 @@ $template = $_POST['template'] ?? "";
 $startcert = $_POST["startcert"] ?? "0";
 $endcert = $_POST["endcert"] ?? "0";
 $external = $_POST['external'] ?? FALSE;
+$attach = $_POST['attach'] ?? FALSE;
 $user = $_SESSION['user'];
 $server = $_SERVER['HTTP_HOST'];
 $host = preg_replace('/www./','',$server);
@@ -68,6 +69,7 @@ Disclaimer - This is an E-Certificate. The firm Online Dentistry is Not responsi
     <label for="endcert">Ending Certificate Line:</label><br>
     <input type="number" name="endcert" id="endcert" value="100"><br><br>
     <input type="checkbox" id="external" name="external" value="external" unchecked><label for="external"> SEND EXTERNAL EMAILS</label><BR>
+    <input type="checkbox" id="attach" name="attach" value="attach" unchecked><label for="attach"> ATTACH CERTIFICATE</label><BR>
     <input type="submit" id="submit" name="submit" value="Send" onclick="move()">
     </form>
 </span>
