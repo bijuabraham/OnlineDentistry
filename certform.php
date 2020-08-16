@@ -43,16 +43,22 @@ foreach(glob("certs/*") as $f) {
     <form name="form2" method="post" action="#" style="padding:5px;">
     <label for="Message">Email Message:</label><BR>
     <textarea id="message" name="message" rows="10" cols="50">
-Greeting Doctor,<BR>
+Greeting Dr. {firstname},<BR>
 <BR>
 Thank You for participating in the Webinar {title} conducted by {by} on {on}. Attached please find the certificate of Participation. <BR>
 <BR>
 Disclaimer - This is an E-Certificate. The firm Online Dentistry is Not responsible for any manipulations by the candidate. Online Dentistry has a backup record of all the certificates issued.
+<BR><BR>
+Your student ID: {studentid}<BR>
+Name: {firstname} {lastname}<BR>
+Certificate Name: {certname}<BR>
+Email: {sendmail}<BR>
 <BR>
 <B>Team</B><BR>
 <I>Online Dentistry</I><BR>
-  <BR>
-    </textarea><BR><BR>
+<BR>
+    </textarea><BR>
+    Reserved Strings: {studentid}, {firstname}, {lastname}, {certname}, {sendmail}<BR><BR>
     <label for="title">Course Title: {title}</label><br>
     <input type="text" name="title" id="title" value="Orthodonics Course"><br><br>
     <label for="by">Instructor name: {by}</label><br>
