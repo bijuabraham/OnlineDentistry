@@ -58,6 +58,9 @@ foreach(glob("certs/*") as $f) {
     <input type="text" name="by" id="by" value="Dr. Binu Abraham"><br><br>
     <label for="on">Course date: {on}</label><br>
     <input type="text" name="on" id="on" value="August 8, 2020"><br><br>
+    <input type="checkbox" id="external" name="external" value="external" unchecked><label for="external"> SEND EXTERNAL EMAILS</label><BR>
+    <input type="checkbox" id="attach" name="attach" value="attach" unchecked><label for="attach"> ATTACH CERTIFICATE</label><BR>
+
   </div>
   <!-- Form Parameters -->
   <div class="form_params">
@@ -70,20 +73,21 @@ foreach(glob("certs/*") as $f) {
     <input type="number" name="startcert" id="startcert" value="1"><br><br>
     <label for="endcert">Ending Certificate Line:</label><br>
     <input type="number" name="endcert" id="endcert" value="100"><br><br>
-    <input type="checkbox" id="external" name="external" value="external" unchecked><label for="external"> SEND EXTERNAL EMAILS</label><BR>
-    <input type="checkbox" id="attach" name="attach" value="attach" unchecked><label for="attach"> ATTACH CERTIFICATE</label><BR>
+    <input type="submit" id="submit" name="submit" value="Send" onclick="move()">
+    <input type="reset" id="reset" name="reset" value="Clear" onclick="clearprevious()">
   </div>
-  <input type="submit" id="submit" name="submit" value="Send" onclick="move()">
-  <input type="reset" id="reset" name="reset" value="Clear" onclick="clearprevious()">
+
   </form>
+  <!-- Form Progress Bar -->
+  <div id="myProgress">
+  <div id="myBar"></div>
+  </div>
 </div>
 <!-- Form Result -->
 <div class="form_result">
   <p id = "successmessage"></p>
   <p id = "errormessage"></p>
 </div>
-<!-- Form Progress Bar -->
-<div id="myProgress">
-  <div id="myBar"></div>
-</div>
+
+
 <?php od_footer(); ?>

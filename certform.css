@@ -55,8 +55,10 @@ td {
 }
 
 #myProgress {
-  width: 80%;
+  clear: both;
+  width: 100%;
   background-color: #ddd;
+  margin-top: 2px;
 }
 
 #myBar {
@@ -72,11 +74,16 @@ td {
     overflow-y: auto; 
   }
 
+  .form_buttons {
+    clear: both;
+  }
+
 .form_result {
-  width: 50%;
-  height: 550px;
+  width: 45%;
+  padding: 2%;
+  height: 570px;
   float: left;
-  background-color: rgb(216, 199, 124);
+  /*background-color: rgb(216, 199, 124);*/
   overflow-x: hidden; 
   overflow-y: auto; 
 
@@ -97,11 +104,13 @@ td {
   }
 
   .form_outer {
-    width: 50%;
-    height: 550px;
+    width: 45%;
+    padding: 2%;
+    /*height: 570px;*/
     float: left;
     background-color: rgb(178,202,178);
   }
+
   .textbox {
       width: 100%;
   }
