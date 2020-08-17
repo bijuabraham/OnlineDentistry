@@ -1,0 +1,107 @@
+/* my_style.css: styles for mtcsf portal */
+body, html {
+	/*color:#fff;*/
+	/*background-color: #886a52; */
+	/*background-color:#433125; */
+	background-color:white;
+	color:#000000;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px auto;
+	padding: 0px;
+}	
+
+.clear{clear:both;}
+
+* {
+    margin: 0px;
+}
+
+h1, h2 {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+h3, h4, h5, h6 {
+	padding-top: 0.6em;
+	padding-bottom: 0.6em;
+}
+
+p, object {
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+/*
+a:link {color:Bisque;}    
+a:visited {color:BurlyWood;}
+a:hover {color:FireBrick;} 
+a:active {color:#0000FF;} 
+*/
+
+a:link {color:FireBrick;}      /* unvisited link */
+a:visited {color:#7D1B7E;}  /* visited link */
+a:hover {color:Red;}  /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+
+table {
+	border-spacing: 0;
+	*border-collapse:collapse;
+	empty-cells:show;
+	padding-bottom: 0.5em;
+}
+
+td {
+	padding: 4px;
+}
+
+#myProgress {
+  width: 80%;
+  background-color: #ddd;
+}
+
+#myBar {
+  width: 1%;
+  height: 30px;
+  background-color: #4CAF50;
+}
+
+.form_message {
+    float: left;
+    background-color: rgb(178, 202, 178);
+    overflow-x: hidden; 
+    overflow-y: auto; 
+  }
+
+.form_result {
+  width: 50%;
+  height: 550px;
+  float: left;
+  background-color: rgb(216, 199, 124);
+  overflow-x: hidden; 
+  overflow-y: auto; 
+
+}
+
+.form_values {
+    width: 50%;
+    float: left;
+    height: 200px;
+    background-color: rgb(231, 228, 187);
+}
+
+.form_params {
+    width: 50%;
+    float: left;
+    height: 200px;
+    background-color: rgb(231, 228, 187);
+  }
+
+  .form_outer {
+    width: 50%;
+    height: 550px;
+    float: left;
+    background-color: rgb(178,202,178);
+  }
+  .textbox {
+      width: 100%;
+  }

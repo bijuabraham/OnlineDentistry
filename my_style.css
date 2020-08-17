@@ -1,0 +1,273 @@
+/* my_style.css: styles for mtcsf portal */
+body, html {
+	/*color:#fff;*/
+	/*background-color: #886a52; */
+	/*background-color:#433125; */
+	background-color:white;
+	color:#000000;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px auto;
+	padding: 0px;
+}	
+
+.clear{clear:both;}
+
+* {
+    margin: 0px;
+}
+
+h1, h2 {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+h3, h4, h5, h6 {
+	padding-top: 0.6em;
+	padding-bottom: 0.6em;
+}
+
+p, object {
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+/*
+a:link {color:Bisque;}    
+a:visited {color:BurlyWood;}
+a:hover {color:FireBrick;} 
+a:active {color:#0000FF;} 
+*/
+
+a:link {color:FireBrick;}      /* unvisited link */
+a:visited {color:#7D1B7E;}  /* visited link */
+a:hover {color:Red;}  /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+
+table {
+	border-spacing: 0;
+	*border-collapse:collapse;
+	empty-cells:show;
+	padding-bottom: 0.5em;
+}
+
+td {
+	padding: 4px;
+}
+
+.brown {
+	margin: auto;
+	border: 1px solid white;
+	color:Bisque;
+}
+
+.brown td {
+	border: 1px solid white;
+}
+.brown th {
+	border: 1px solid white;
+}
+
+.special {
+	border: 1px solid black;
+	color:#000;
+}
+
+.special th {
+	/*background-color: IndianRed*/;
+	background-color: IndianRed;
+	padding: 4px;
+	border: 1px solid black;
+}
+.special tr:nth-child(odd) {
+	background-color: DarkSalmon;
+}
+
+.special tr:nth-child(even) {
+	background-color: Coral;
+}
+
+.special td {
+	padding: 4px;
+	border: 1px solid black;
+}
+
+@media print,screen {
+	.dirprint {
+		border: 1px solid black;
+		color:#000;
+	}
+
+	.dirprint th {
+		/*background-color: Lighter Blue #AFE6FB*/;
+		background-color: #AFE6FB !important;
+		padding: 4px;
+		border: 1px solid black;
+	}
+	.dirprint tr:nth-child(odd) {
+		background-color: #CFDDF5 !important;
+	}
+
+	.dirprint tr:nth-child(even) {
+		background-color: #ffffff;
+	}
+
+	.dirprint td {
+		padding: 4px;
+		border: 1px solid black;
+	}
+	.dirprint td.dirtdprint {
+		background-color: #AFE6FB !important;
+	}
+}
+#container {
+	margin: 0px auto;
+	width: 100%;
+}
+
+#content {
+	margin: 0px auto;
+	width: 95%;
+    padding-right: 2.5%;
+    padding-left: 2.5%;
+}
+/* tabbed navigation */
+#tablist {
+    list-style:none;
+    padding-top:2em;
+    padding-bottom:2em;
+	padding-right: 0.5em;
+	padding-left: 0.5em;
+    margin:0;
+    border: none;
+}
+#tablist li {
+    float:left;
+    height:2em;
+    margin-right:0.13em;
+}
+#tablist li a {
+    display:block;
+    padding:0 1em;
+    text-decoration:none;
+    border:0.06em solid #000;
+    border-bottom:0;
+    font:bold 0.88em/2em arial,geneva,helvetica,sans-serif;
+    color:#FFF;
+    /* background-color:#433125; */
+    background-color:#886a52;
+    /* CSS 3 elements */
+    webkit-border-top-right-radius:0.50em;
+    -webkit-border-top-left-radius:0.50em;
+    -moz-border-radius-topright:0.50em;
+    -moz-border-radius-topleft:0.50em;
+    border-top-right-radius:0.50em;
+    border-top-left-radius:0.50em;
+}
+
+#tablist li a:hover {
+    /*background:#886a52;*/
+    background-color:#433125;
+    color:#fff;
+    text-decoration:none;
+}
+
+#tablist li#current a {
+    /*background:#886a52;*/
+    background-color:#433125;
+    color: #fff;
+	border-style: solid;
+	border-color: #000;
+    border-bottom:0;
+}
+#tablist li#current a:hover {
+    /*background:#886a52;*/
+    background-color:#433125;
+}
+
+/* centerbox with blending background : margin auto makes it center */
+#centerbox {
+    /*background-color:#433125; */
+	background-color:white;
+	width:50%;
+	padding-top:5em;
+	margin:auto;
+}
+
+.floatdiv {
+	background-color:#886a52;
+	color:#000;
+	float:left;
+	padding:1em 1em;
+}
+
+.thumbdiv {
+	float:left;
+    width:25%;
+	padding:1em 1em;
+}
+
+
+/* footer divs */
+#footer {
+	width: 95%;
+    padding-right: 2.5%;
+    padding-left: 2.5%;
+    text-align:left;
+	padding-top: 2em;
+}
+
+/*photos styles */
+#pviewport {
+    width: 960px;
+    height: 160px;
+    overflow: hidden;
+}
+
+/* pwrapper moves through the pviewport */
+#pwrapper {
+    /* width overridden in photo_slide.js */
+    width: 7200px;
+    transform: translate3d(0, 0, 0);
+    transition: transform .5s ease-in-out;
+}
+
+.pcontent {
+    float: left;
+    width: 240px;
+    height: 160px;
+    white-space: normal;
+    background-repeat: no-repeat;
+}
+.purls {
+    display: none;
+    visibility:hidden;
+}
+#pcontainer {
+    position: relative;
+    float: left;
+    height: 480px;
+}
+#pleft {
+    position: absolute;
+    top:50%;
+    left:0px;
+    color:grey;
+}
+#portrait {
+    position: absolute;
+    left:120px;
+    width: 720px;
+}
+#pright {
+    position: absolute;
+    top:50%;
+    left:912px;
+    color:grey;
+}
+/* Rules for icon sizes: */
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; } /* Default */
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+.material-icons.md-60 { font-size: 60px; }
