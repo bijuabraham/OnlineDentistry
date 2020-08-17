@@ -24,24 +24,24 @@ od_footer();
 //END OF MAIN
 function file_upload_form()
 {
-?>
-<table width="65%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td bgcolor="e5ecf9" class="forumposts">
-    <form enctype="multipart/form-data" method="POST">
-    <input type ="hidden" name="MAX_FILE_SIZE" value = "1000000"/>
-        Choose a file to upload:
-    </td>
-    <td>
-        <input name="file" type="file"/>
-    </td>
-    </tr>
-    <tr><td colspan=2>
-        <input type="submit" name="file_submit" value="upload"/>
-    </td></tr>
-    </form>
-</table>
-    <p><A HREF="data/participantslist.csv">Mailing List upload template</A></P>
+    ?>
+    <table width="65%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td bgcolor="e5ecf9" class="forumposts">
+        <form enctype="multipart/form-data" method="POST">
+        <input type ="hidden" name="MAX_FILE_SIZE" value = "1000000"/>
+            Choose a file to upload:
+        </td>
+        <td>
+            <input name="file" type="file"/>
+        </td>
+        </tr>
+        <tr><td colspan=2>
+            <input type="submit" name="file_submit" value="upload"/>
+        </td></tr>
+        </form>
+    </table>
+        <p><A HREF="data/participantslist.csv">Mailing List upload template</A></P>
 
 <?php
 }

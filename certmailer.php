@@ -60,7 +60,7 @@
     ob_end_flush();
 
     function process_message ($message,$title,$by,$on,$sendmail,$studentid,$firstname,$lastname,$certname) {
-        $search  = array('{title}', '{by}', '{on}', '{sendmail}', '{studentid}', '{firstname}', '{lastname}', '{certname}');
+        $search  = array('{title}', '{by}', '{on}', '{sendemail}', '{studentid}', '{firstname}', '{lastname}', '{certname}');
         $replace = array($title, $by, $on, $sendmail,$studentid,$firstname,$lastname,$certname);
         $newstr = str_replace($search, $replace, $message);
         return $newstr;
