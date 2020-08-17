@@ -32,23 +32,23 @@ foreach(glob("certs/*") as $f) {
   <form name="form2" method="post" action="#" style="padding:5px;">
   <!-- Form Message -->
   <div class="form_message">
-    <label for="Message">Email Message:</label><BR>
-    <textarea id="message" name="message" rows="16" class = "textbox">
-    Greeting Dr. {firstname},<BR>
-    <BR>
-    Thank You for participating in the Webinar {title} conducted by {by} on {on}. Attached please find the certificate of Participation. <BR>
-    <BR>
-    Disclaimer - This is an E-Certificate. The firm Online Dentistry is Not responsible for any manipulations by the candidate. Online Dentistry has a backup record of all the certificates issued.
-    <BR><BR>
-    Your student ID: {studentid}<BR>
-    Name: {firstname} {lastname}<BR>
-    Certificate Name: {certname}<BR>
-    Email: {sendmail}<BR>
-    <BR>
-    <B>Team</B><BR>
-    <I>Online Dentistry</I>
-    </textarea>
-    Reserved Strings: {studentid}, {firstname}, {lastname}, {certname}, {sendmail}<BR><BR>
+  <label for="Message">Email Message:</label><BR>
+  <textarea id="message" name="message" rows="16" class = "textbox">
+  Greeting Dr. {firstname},<BR>
+  <BR>
+  Thank You for participating in the Webinar {title} conducted by {by} on {on}. Attached please find the certificate of Participation. <BR>
+  <BR>
+  Disclaimer - This is an E-Certificate. The firm Online Dentistry is Not responsible for any manipulations by the candidate. Online Dentistry has a backup record of all the certificates issued.
+  <BR><BR>
+  Your student ID: {studentid}<BR>
+  Name: {firstname} {lastname}<BR>
+  Certificate Name: {certname}<BR>
+  Email: {sendmail}<BR>
+  <BR>
+  <B>Team</B><BR>
+  <I>Online Dentistry</I>
+  </textarea>
+  Reserved Strings: {studentid}, {firstname}, {lastname}, {certname}, {sendmail}<BR><BR>
   </div>
   <!-- Form Values -->
   <div class="form_values">
