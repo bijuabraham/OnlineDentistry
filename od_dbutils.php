@@ -253,5 +253,4 @@ function db_exec($dbid, $query)
     }
     return 0;
 }
-
 ?>

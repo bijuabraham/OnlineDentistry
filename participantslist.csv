@@ -1,1 +1,4 @@
-studentid,sendemail,firstname,lastname,certname
+studentid|sendemail|firstname|lastname|certname
+5|biju@hey.com|Biju|Abraham|Biju Abraham
+6|biju.abraham@gmail.com|Joe|Antony|Joe Antony
+7|indhumathi15398@gmail.com|Indu|Mathi|Indu Mathi
