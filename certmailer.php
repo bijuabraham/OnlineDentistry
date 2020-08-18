@@ -32,7 +32,7 @@
         #function sendPHPMailer($toaddress, $toname, $subject, $attach, $message) {
         $sentMailResult = FALSE;
         $certgenerateresult = FALSE;
-        #echo "<p>Params: $i : $studentid : $certname : $title : $by : $on : $external : $attach : $template </p>";
+        error_log ("Parameters: $message \n $studentid \n $sendmail \n $firstname \n $lastname \n $certname \n $title \n $by \n $on \n $external \n $attach \n $template\n\n");
         $message = process_message ($message,$title,$by,$on,$sendmail,$studentid,$firstname,$lastname,$certname);
         echo $message;
         if ($attach == "true") {

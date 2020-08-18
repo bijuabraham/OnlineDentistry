@@ -24,24 +24,24 @@ od_footer();
 //END OF MAIN
 function file_upload_form()
 {
-?>
-<table width="65%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td bgcolor="e5ecf9" class="forumposts">
-    <form enctype="multipart/form-data" method="POST">
-    <input type ="hidden" name="MAX_FILE_SIZE" value = "1000000"/>
-        Choose a file to upload:
-    </td>
-    <td>
-        <input name="file" type="file"/>
-    </td>
-    </tr>
-    <tr><td colspan=2>
-        <input type="submit" name="file_submit" value="upload"/>
-    </td></tr>
-    </form>
-</table>
-    <p><A HREF="data/participantslist.csv">Mailing List upload template</A></P>
+    ?>
+    <table width="65%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td bgcolor="e5ecf9" class="forumposts">
+        <form enctype="multipart/form-data" method="POST">
+        <input type ="hidden" name="MAX_FILE_SIZE" value = "1000000"/>
+            Choose a file to upload:
+        </td>
+        <td>
+            <input name="file" type="file"/>
+        </td>
+        </tr>
+        <tr><td colspan=2>
+            <input type="submit" name="file_submit" value="upload"/>
+        </td></tr>
+        </form>
+    </table>
+        <p><A HREF="data/participantslist.csv">Mailing List upload template</A></P>
 
 <?php
 }
@@ -86,6 +86,7 @@ function process_file()
 
     // First delete all data from the existing table
     db_connect("CCDB");
+    error_log ("Deleting all rows in mailinglist",0);
     $databasetable = "mailinglist";
     $db_query = "truncate $databasetable";
     print "Deleting all entries from $databasetable ...<br>";
@@ -129,6 +130,7 @@ function process_file()
     } else {
         print "Successfully Uploaded: $databasetable ; Updated Last Update date...<br>";
     }
+    assign_studentid();
     db_close("CCDB");
 
     //print "The query is $queries<br>";
@@ -160,5 +162,49 @@ function massage_line($line, $fieldseparator)
         $line = str_replace('"','',$line);
 
         return explode($fieldseparator,$line);
+}
+
+function assign_studentid (){
+    $query1 = "select sendemail as sendemail, firstname as FirstName, lastname as LastName, certname as certname from mailinglist";
+    $resultemails = db_fetch_all("CCDB", $query1);
+    $num=db_num_rows($resultemails);
+    $i = 0;
+    while ($i < $num) {
+        $sendemail=db_result($resultemails,$i,"sendemail");
+        $certname=db_result($resultemails,$i,"certname");
+        $firstname=db_result($resultemails,$i,"FirstName");
+        $lastname=db_result($resultemails,$i,"LastName");
+        $query2 = "select studentid as studentid from studentlist where sendemail = '$sendemail'";
+        $resultid = db_fetch_all("CCDB", $query2);
+        $numids=db_num_rows($resultid);
+        if ($numids == 1) {
+            $studentid=db_result($resultid,0,"studentid"); 
+            $query3 = "update mailinglist set studentid = $studentid where sendemail='$sendemail'";
+            $result = db_exec("CCDB", $query3);
+            if (!$result) {
+                error_log ("Error executing $query3");
+            }
+        } else if ($numids == 0) {
+            $query3 = "insert into studentlist (sendemail, firstname, lastname, certname, status, mailinglist) values ('$sendemail','$firstname','$lastname','$certname',1,1)";
+            $result = db_exec("CCDB", $query3);
+            if (!$result) {
+                error_log ("Error executing $query3");
+            }
+            $query4 = "select studentid as studentid from studentlist where sendemail = '$sendemail'";
+            $resultnewid = db_fetch_all("CCDB", $query4);
+            if (!$resultnewid) {
+                error_log ("Error executing $query4");
+            }
+            $studentid=db_result($resultnewid,0,"studentid");
+            $query5 = "update mailinglist set studentid = $studentid where sendemail='$sendemail'";
+            $resultupdate = db_exec("CCDB", $query5);
+            if (!$resultupdate) {
+                error_log ("Error executing $query5");
+            }
+        } else {
+            error_log ("Error executing $query2");
+        }
+        $i++; 
+    }
 }
 ?>
